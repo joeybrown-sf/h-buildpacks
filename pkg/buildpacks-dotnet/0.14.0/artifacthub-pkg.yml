@@ -7,10 +7,10 @@ description: Heroku's buildpack for .NET applications.
 logoURL: https://raw.githubusercontent.com/joeybrown-sf/h-buildpacks/refs/heads/main/assets/images/heroku.png
 digest: sha256:32cae746f3f9f65b5dc02d2874f1246188d3fe878de5aaa564cbf7a1aa47e191
 license: BSD-3-Clause
-homeURL: github.com/heroku/buildpacks-dotnet
+homeURL: https://github.com/heroku/buildpacks-dotnet
 appVersion: 0.10
 containersImages:
-  - image: registry-1.docker.io/heroku/buildpack-dotnet:0.14.0
+  - image: docker.io/heroku/buildpack-dotnet:0.14.0
     platforms:
       - linux/amd64
       - linux/arm64
@@ -19,7 +19,9 @@ keywords:
   - .NET
   - heroku
 links:
-  - name: Heroku .NET Buildpacks
+  - name: Heroku Builders
+    url: https://github.com/heroku/cnb-builder-images
+  - name: Heroku Buildpacks
     url: https://github.com/heroku/buildpacks
 install:
   pack build sample-app --builder heroku/builder:24
@@ -42,5 +44,4 @@ changes:
 provider:
   name: Heroku
 recommendations:
-  - url: https://artifacthub.io/packages/cnb-builder/heroku/builder-22
-  - url: https://artifacthub.io/packages/cnb-builder/heroku/builder-24
+  - url: https://artifacthub.io/packages/builder/heroku/builder-24

@@ -1,0 +1,31 @@
+version: 0.165.0
+name: builder-24
+category: integration-delivery
+displayName: Heroku Builder 24
+createdAt: 2025-12-15T08:15:00.000Z
+description: Heroku's builder for Cloud Native Buildpacks.
+logoURL: https://raw.githubusercontent.com/joeybrown-sf/h-buildpacks/refs/heads/main/assets/images/heroku.png
+digest: sha256:7d5d3b7468391e1bda7ed74b05f061179da6fe0906b74202759e2206b765d887
+license: BSD-3-Clause
+homeURL: https://github.com/heroku/cnb-builder-images
+appVersion: 0.21.0
+containersImages:
+  - image: docker.io/heroku/builder:24
+    platforms:
+      - linux/amd64
+      - linux/arm64
+keywords:
+  - builder
+  - heroku
+links:
+  - name: Heroku Buildpacks
+    url: https://github.com/heroku/buildpacks
+install:
+  pack build sample-app --builder heroku/builder:24
+provider:
+  name: Heroku
+recommendations:
+  - url: https://artifacthub.io/packages/buildpack/heroku/dotnet
+annotations:
+  buildImage: docker.io/heroku/heroku:24-build
+  runImage: docker.io/heroku/heroku:24
