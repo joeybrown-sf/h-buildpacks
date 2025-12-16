@@ -10,7 +10,7 @@ license: BSD-3-Clause
 homeURL: https://github.com/heroku/buildpacks-dotnet
 appVersion: 0.10
 containersImages:
-  - image: docker.io/heroku/buildpack-dotnet:0.14.0
+  - image: heroku/buildpack-dotnet:0.14.0
     platforms:
       - linux/amd64
       - linux/arm64

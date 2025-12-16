@@ -10,7 +10,7 @@ license: BSD-3-Clause
 homeURL: https://github.com/heroku/cnb-builder-images
 appVersion: 0.21.0
 containersImages:
-  - image: docker.io/heroku/builder:24
+  - image: heroku/builder:24
     platforms:
       - linux/amd64
       - linux/arm64
@@ -29,5 +29,5 @@ provider:
 recommendations:
   - url: https://artifacthub.io/packages/buildpack/heroku/dotnet
 annotations:
-  buildImage: docker.io/heroku/heroku:24-build
-  runImage: docker.io/heroku/heroku:24
+  buildImage: heroku/heroku:24-build
+  runImage: heroku/heroku:24
