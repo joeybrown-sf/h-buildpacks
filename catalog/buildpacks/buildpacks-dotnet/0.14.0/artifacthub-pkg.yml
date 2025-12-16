@@ -23,8 +23,10 @@ links:
     url: https://github.com/heroku/cnb-builder-images
   - name: Heroku Buildpacks
     url: https://github.com/heroku/buildpacks
-install:
+install: |
+  ```
   pack build sample-app --builder heroku/builder:24
+  ```
 changes:
   - kind: added
     description: Support for configuring the target framework using `Directory.Build.props`. 
