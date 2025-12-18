@@ -2,8 +2,8 @@ version: 2.6.6
 name: nodejs-pnpm-engine
 alternativeName: ""
 category: ""
-displayName: ""
-createdAt: ""
+displayName: nodejs-pnpm-engine
+createdAt: "0001-01-01T00:00:00Z"
 description: ""
 logoPath: ""
 logoURL: ""

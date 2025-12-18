@@ -2,8 +2,8 @@ version: 2.4.0
 name: nodejs-npm-install
 alternativeName: ""
 category: ""
-displayName: ""
-createdAt: ""
+displayName: nodejs-npm-install
+createdAt: "0001-01-01T00:00:00Z"
 description: ""
 logoPath: ""
 logoURL: ""

@@ -2,8 +2,8 @@ version: 3.2.2
 name: nodejs-corepack
 alternativeName: ""
 category: ""
-displayName: ""
-createdAt: ""
+displayName: nodejs-corepack
+createdAt: "0001-01-01T00:00:00Z"
 description: ""
 logoPath: ""
 logoURL: ""

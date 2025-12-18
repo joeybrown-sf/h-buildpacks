@@ -2,8 +2,8 @@ version: 3.2.13
 name: nodejs-yarn
 alternativeName: ""
 category: ""
-displayName: ""
-createdAt: ""
+displayName: nodejs-yarn
+createdAt: "0001-01-01T00:00:00Z"
 description: ""
 logoPath: ""
 logoURL: ""

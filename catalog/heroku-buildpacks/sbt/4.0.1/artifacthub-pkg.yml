@@ -2,8 +2,8 @@ version: 4.0.1
 name: sbt
 alternativeName: ""
 category: ""
-displayName: ""
-createdAt: ""
+displayName: sbt
+createdAt: "0001-01-01T00:00:00Z"
 description: ""
 logoPath: ""
 logoURL: ""

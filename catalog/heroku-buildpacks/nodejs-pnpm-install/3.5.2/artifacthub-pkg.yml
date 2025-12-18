@@ -2,8 +2,8 @@ version: 3.5.2
 name: nodejs-pnpm-install
 alternativeName: ""
 category: ""
-displayName: ""
-createdAt: ""
+displayName: nodejs-pnpm-install
+createdAt: "0001-01-01T00:00:00Z"
 description: ""
 logoPath: ""
 logoURL: ""
