@@ -1,0 +1,33 @@
+version: 1.10.2
+name: jattach
+alternativeName: ""
+category: ""
+displayName: jattach
+createdAt: "2025-06-24T16:17:18Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:8b591b0a01e6ddab26d89826f95d73f07383ec9757223c1c764a3b1bacb16edb
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: jattach
+      image: index.docker.io/paketobuildpacks/jattach:1.10.2
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

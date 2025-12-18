@@ -1,0 +1,33 @@
+version: 8.10.0
+name: java
+alternativeName: ""
+category: ""
+displayName: java
+createdAt: "2023-03-01T15:58:38Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:c9a201f0df1460cd2c32e4d05b470c5ce4eef153dfc384a937ebbbc18913f7ef
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: java
+      image: index.docker.io/paketobuildpacks/java:8.10.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

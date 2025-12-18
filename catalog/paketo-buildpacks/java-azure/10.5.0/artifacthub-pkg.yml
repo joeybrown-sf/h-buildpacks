@@ -1,0 +1,33 @@
+version: 10.5.0
+name: java-azure
+alternativeName: ""
+category: ""
+displayName: java-azure
+createdAt: "2023-04-28T14:52:05Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:b028f94fae2d828ce53a09c20c9a957c8b62d62e13d8366c38f296c02769ab69
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: java-azure
+      image: index.docker.io/paketobuildpacks/java-azure:10.5.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

@@ -1,0 +1,33 @@
+version: 9.0.0
+name: google-stackdriver
+alternativeName: ""
+category: ""
+displayName: google-stackdriver
+createdAt: "2024-02-16T16:23:32Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:1f43958b1db9fdbb3a725d5d6bd5b1eec465f9014f6b934feed4bd4468c82773
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: google-stackdriver
+      image: index.docker.io/paketobuildpacks/google-stackdriver:9.0.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

@@ -1,0 +1,33 @@
+version: 0.9.8
+name: dotnet-core-aspnet
+alternativeName: ""
+category: ""
+displayName: dotnet-core-aspnet
+createdAt: "2022-10-12T15:12:46Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:80e59228361633a3cd95b426ab235d3f5fce154acf02654b8b3e88787e784e77
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: dotnet-core-aspnet
+      image: index.docker.io/paketobuildpacks/dotnet-core-aspnet:0.9.8
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

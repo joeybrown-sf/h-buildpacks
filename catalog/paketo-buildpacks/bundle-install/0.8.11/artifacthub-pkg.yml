@@ -1,0 +1,33 @@
+version: 0.8.11
+name: bundle-install
+alternativeName: ""
+category: ""
+displayName: bundle-install
+createdAt: "2024-07-10T05:14:42Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:14a9f34e6b7ed34cf83ed20cf23d7206f7b00eca2f55ebf450553a1e8a21ccb1
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: bundle-install
+      image: index.docker.io/paketobuildpacks/bundle-install:0.8.11
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

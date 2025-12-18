@@ -1,0 +1,33 @@
+version: 2.3.4
+name: npm-start
+alternativeName: ""
+category: ""
+displayName: npm-start
+createdAt: "2025-10-08T05:25:05Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:7e8d0402d9a7aa0fbf059ce0441cce2ae0e934704404a7dcf3fe9bc7378536d8
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: npm-start
+      image: index.docker.io/paketobuildpacks/npm-start:2.3.4
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

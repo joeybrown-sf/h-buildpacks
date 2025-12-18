@@ -1,0 +1,33 @@
+version: 2.17.0
+name: python
+alternativeName: ""
+category: ""
+displayName: python
+createdAt: "2024-04-10T16:07:53Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:24fd5aacb8095420dd50956ca5841144b3285cbf418f6e2a659691c268de4185
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: python
+      image: index.docker.io/paketobuildpacks/python:2.17.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

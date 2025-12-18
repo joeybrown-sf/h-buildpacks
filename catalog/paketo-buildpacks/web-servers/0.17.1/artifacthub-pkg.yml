@@ -1,0 +1,33 @@
+version: 0.17.1
+name: web-servers
+alternativeName: ""
+category: ""
+displayName: web-servers
+createdAt: "2023-07-07T21:03:22Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:acf4177266587be7e2fce3222b0fdbca67a9118ae0ae2a7d86b125b52d46b9c3
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: web-servers
+      image: index.docker.io/paketobuildpacks/web-servers:0.17.1
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

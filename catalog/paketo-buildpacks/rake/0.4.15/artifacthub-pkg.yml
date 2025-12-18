@@ -1,0 +1,33 @@
+version: 0.4.15
+name: rake
+alternativeName: ""
+category: ""
+displayName: rake
+createdAt: "2023-02-15T23:18:19Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:e957627e180f44d92c1f65de3b86f9df9fa2137395f685fc3d2130b19e5dd9b8
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: rake
+      image: index.docker.io/paketobuildpacks/rake:0.4.15
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

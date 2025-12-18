@@ -1,0 +1,33 @@
+version: 5.2.3
+name: node-engine
+alternativeName: ""
+category: ""
+displayName: node-engine
+createdAt: "2025-02-12T05:31:27Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:0fd36be8ace274a72aca131813905a4ac57b3ade31438ee75fd097352f98bcab
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: node-engine
+      image: index.docker.io/paketobuildpacks/node-engine:5.2.3
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

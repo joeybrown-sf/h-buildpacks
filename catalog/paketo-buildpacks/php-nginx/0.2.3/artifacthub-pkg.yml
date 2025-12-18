@@ -1,0 +1,33 @@
+version: 0.2.3
+name: php-nginx
+alternativeName: ""
+category: ""
+displayName: php-nginx
+createdAt: "2023-01-20T21:12:54Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:098cdfe5c81c8cb4ebf16ff53cca8dd20b2ce47d7ac7a2a7963e21705bf9d943
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: php-nginx
+      image: index.docker.io/paketobuildpacks/php-nginx:0.2.3
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

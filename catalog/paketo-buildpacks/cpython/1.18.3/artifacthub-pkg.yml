@@ -1,0 +1,33 @@
+version: 1.18.3
+name: cpython
+alternativeName: ""
+category: ""
+displayName: cpython
+createdAt: "2025-11-19T05:12:05Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:3f923e284bf1599b01f7aaaec172f1bbbd7022a4c86bf891172629d50b3193ba
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: cpython
+      image: index.docker.io/paketobuildpacks/cpython:1.18.3
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

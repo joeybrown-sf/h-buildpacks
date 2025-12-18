@@ -1,0 +1,33 @@
+version: 1.3.31
+name: yarn
+alternativeName: ""
+category: ""
+displayName: yarn
+createdAt: "2025-03-05T05:24:48Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:04f5033e28ec73d9e7dbe4419a6c4b925de8547304eb7cd5563c15bc6d2ccfb2
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: yarn
+      image: index.docker.io/paketobuildpacks/yarn:1.3.31
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

@@ -1,0 +1,33 @@
+version: 4.1.4
+name: node-engine
+alternativeName: ""
+category: ""
+displayName: node-engine
+createdAt: "2024-07-24T05:29:21Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:a7513f34103b8fffafd9609e8c40ffd104fb2e366f1ed8ed5f863abf2c525843
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: node-engine
+      image: index.docker.io/paketobuildpacks/node-engine:4.1.4
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

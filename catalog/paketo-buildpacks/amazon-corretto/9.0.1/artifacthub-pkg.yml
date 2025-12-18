@@ -1,0 +1,33 @@
+version: 9.0.1
+name: amazon-corretto
+alternativeName: ""
+category: ""
+displayName: amazon-corretto
+createdAt: "2025-01-22T17:56:50Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:534b335bf4a2e919ee11ba2369d8f9ff537a7aed09b71a35a5366eb18a43502e
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: amazon-corretto
+      image: index.docker.io/paketobuildpacks/amazon-corretto:9.0.1
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

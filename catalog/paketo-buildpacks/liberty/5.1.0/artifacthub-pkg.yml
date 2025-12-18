@@ -1,0 +1,33 @@
+version: 5.1.0
+name: liberty
+alternativeName: ""
+category: ""
+displayName: liberty
+createdAt: "2025-03-18T01:19:25Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:5fdfaab8da949eb1e9aaadb7bb9fc9fdfcd164220a989be692180c0c78d8d715
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: liberty
+      image: index.docker.io/paketobuildpacks/liberty:5.1.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

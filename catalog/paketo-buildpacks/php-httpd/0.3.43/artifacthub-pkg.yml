@@ -1,0 +1,33 @@
+version: 0.3.43
+name: php-httpd
+alternativeName: ""
+category: ""
+displayName: php-httpd
+createdAt: "2025-01-15T05:30:56Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:e3253db4f2f3150823ba95eb5e55ef10f71ca77cb61bd760600ca8d78e690c0f
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: php-httpd
+      image: index.docker.io/paketobuildpacks/php-httpd:0.3.43
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

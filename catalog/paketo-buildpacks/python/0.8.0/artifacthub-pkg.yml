@@ -1,0 +1,33 @@
+version: 0.8.0
+name: python
+alternativeName: ""
+category: ""
+displayName: python
+createdAt: "2021-09-07T16:05:54Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:1e6f947f687c711a45e0187a6721ffb04af37978572fb2516f59cd96c38a3f1c
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: python
+      image: index.docker.io/paketobuildpacks/python:0.8.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

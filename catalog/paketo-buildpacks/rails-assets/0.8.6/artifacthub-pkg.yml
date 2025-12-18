@@ -1,0 +1,33 @@
+version: 0.8.6
+name: rails-assets
+alternativeName: ""
+category: ""
+displayName: rails-assets
+createdAt: "2023-02-22T19:01:52Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:f209d066a559b7156d0b0ddfa52cb98cb7f678cb59e83b1c5302992b617b6c15
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: rails-assets
+      image: index.docker.io/paketobuildpacks/rails-assets:0.8.6
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

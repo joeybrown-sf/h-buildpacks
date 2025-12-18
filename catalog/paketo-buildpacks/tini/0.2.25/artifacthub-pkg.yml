@@ -1,0 +1,33 @@
+version: 0.2.25
+name: tini
+alternativeName: ""
+category: ""
+displayName: tini
+createdAt: "2025-03-05T05:24:24Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:83f211d5e4e594950ba20a13b75b74135fc2245b521a39d0fa8f8f965adfef5a
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: tini
+      image: index.docker.io/paketobuildpacks/tini:0.2.25
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

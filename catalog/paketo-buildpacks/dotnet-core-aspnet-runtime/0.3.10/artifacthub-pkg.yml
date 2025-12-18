@@ -1,0 +1,33 @@
+version: 0.3.10
+name: dotnet-core-aspnet-runtime
+alternativeName: ""
+category: ""
+displayName: dotnet-core-aspnet-runtime
+createdAt: "2023-04-19T18:50:13Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:487fe99743d1592c5f0a8c1fb4bbe9c0af2a96b4e10a55584ca87f8a25c3718a
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: dotnet-core-aspnet-runtime
+      image: index.docker.io/paketobuildpacks/dotnet-core-aspnet-runtime:0.3.10
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

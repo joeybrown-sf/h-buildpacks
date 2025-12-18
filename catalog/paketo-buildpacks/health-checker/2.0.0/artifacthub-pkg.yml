@@ -1,0 +1,33 @@
+version: 2.0.0
+name: health-checker
+alternativeName: ""
+category: ""
+displayName: health-checker
+createdAt: "2024-07-05T16:58:01Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:ec2e918726d3e278fd63c47d386b00456bd6eaf5aabd5ad1b9d1a417b59f7682
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: health-checker
+      image: index.docker.io/paketobuildpacks/health-checker:2.0.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

@@ -1,0 +1,33 @@
+version: 5.9.2
+name: procfile
+alternativeName: ""
+category: ""
+displayName: procfile
+createdAt: "2024-08-23T20:45:25Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:04437b4deaecf939289c7cd3d527bc26e38dd312d39417c7265d5366620e62dd
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: procfile
+      image: index.docker.io/paketobuildpacks/procfile:5.9.2
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

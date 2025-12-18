@@ -1,0 +1,33 @@
+version: 9.5.0
+name: new-relic
+alternativeName: ""
+category: ""
+displayName: new-relic
+createdAt: "2024-12-20T13:09:30Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:6daf7a2dd5e905d34ae4ed98f13fe188a0cf35f51c89a512c6d2df78505a58ce
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: new-relic
+      image: index.docker.io/paketobuildpacks/new-relic:9.5.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

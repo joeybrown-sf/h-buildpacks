@@ -1,0 +1,33 @@
+version: 0.11.3
+name: miniconda
+alternativeName: ""
+category: ""
+displayName: miniconda
+createdAt: "2025-09-24T05:20:37Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:91c94b57bac44c318838313a084e664e501eeb0d28415dfd63a2dc4dc42507d6
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: miniconda
+      image: index.docker.io/paketobuildpacks/miniconda:0.11.3
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

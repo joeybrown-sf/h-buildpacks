@@ -1,0 +1,33 @@
+version: 0.2.6
+name: php-composer
+alternativeName: ""
+category: ""
+displayName: php-composer
+createdAt: "2021-11-17T21:18:50Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:825f8ffb66bd24430cdc7c8323eb6a245062990265332b310d29839d1ddb6203
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: php-composer
+      image: index.docker.io/paketobuildpacks/php-composer:0.2.6
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

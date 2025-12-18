@@ -1,0 +1,33 @@
+version: 0.0.58
+name: puma
+alternativeName: ""
+category: ""
+displayName: puma
+createdAt: "2021-04-22T21:05:13Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:636521c3da2e26b55bcde8ac86d22149c87d64c6328d842d27ee4f38710a9f3b
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: puma
+      image: index.docker.io/paketobuildpacks/puma:0.0.58
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

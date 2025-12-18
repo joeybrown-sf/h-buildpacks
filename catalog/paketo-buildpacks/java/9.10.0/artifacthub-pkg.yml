@@ -1,0 +1,33 @@
+version: 9.10.0
+name: java
+alternativeName: ""
+category: ""
+displayName: java
+createdAt: "2023-06-09T19:03:42Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:5362fb83410a93f31a36f0ec190fded8c8e0ac4de1cb4ff5c7fbfb2dce50bcbd
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: java
+      image: index.docker.io/paketobuildpacks/java:9.10.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

@@ -1,0 +1,33 @@
+version: 12.1.0
+name: java
+alternativeName: ""
+category: ""
+displayName: java
+createdAt: "2024-03-26T20:12:20Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:a7a21e98b614e12241c9d1dcf2e9057cfd8e59d373e5fce8d56266442fb36ce6
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: java
+      image: index.docker.io/paketobuildpacks/java:12.1.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

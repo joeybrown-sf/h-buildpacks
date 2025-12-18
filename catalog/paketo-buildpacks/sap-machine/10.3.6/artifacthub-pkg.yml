@@ -1,0 +1,33 @@
+version: 10.3.6
+name: sap-machine
+alternativeName: ""
+category: ""
+displayName: sap-machine
+createdAt: "2024-01-17T16:43:03Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:956f0d2ea098c13e27e762fd9dda7f3d853eb3f56476255a0bed81e498e0af0a
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: sap-machine
+      image: index.docker.io/paketobuildpacks/sap-machine:10.3.6
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

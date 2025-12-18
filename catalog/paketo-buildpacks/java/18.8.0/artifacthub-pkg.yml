@@ -1,0 +1,33 @@
+version: 18.8.0
+name: java
+alternativeName: ""
+category: ""
+displayName: java
+createdAt: "2025-05-23T14:37:48Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:c919ef63a800b57aa99ed1b6ff5e17d1b80cac2fd950b8a46a9d06207224745d
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: java
+      image: index.docker.io/paketobuildpacks/java:18.8.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

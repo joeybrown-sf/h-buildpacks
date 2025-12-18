@@ -1,0 +1,33 @@
+version: 0.2.4
+name: node-module-bom
+alternativeName: ""
+category: ""
+displayName: node-module-bom
+createdAt: "2022-04-04T20:03:03Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:986b2254fb8312ca6391351b99700ae1bdd8787e8c9d0e13203dbdcd85536181
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: node-module-bom
+      image: index.docker.io/paketobuildpacks/node-module-bom:0.2.4
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

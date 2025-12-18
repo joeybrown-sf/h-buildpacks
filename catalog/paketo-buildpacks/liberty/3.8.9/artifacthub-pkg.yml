@@ -1,0 +1,33 @@
+version: 3.8.9
+name: liberty
+alternativeName: ""
+category: ""
+displayName: liberty
+createdAt: "2023-10-25T13:03:18Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:00524754508aec4ec2f36ede6bb8c6daaa21f0b6af4d2dcd98d7d988c6cad049
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: liberty
+      image: index.docker.io/paketobuildpacks/liberty:3.8.9
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

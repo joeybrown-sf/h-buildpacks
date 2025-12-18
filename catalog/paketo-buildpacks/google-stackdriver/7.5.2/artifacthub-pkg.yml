@@ -1,0 +1,33 @@
+version: 7.5.2
+name: google-stackdriver
+alternativeName: ""
+category: ""
+displayName: google-stackdriver
+createdAt: "2023-05-11T00:54:51Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:2adc6303f5da9d4c138cd0744ae52cc3276b195b3a9467ad03a3b5aa62a4306a
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: google-stackdriver
+      image: index.docker.io/paketobuildpacks/google-stackdriver:7.5.2
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

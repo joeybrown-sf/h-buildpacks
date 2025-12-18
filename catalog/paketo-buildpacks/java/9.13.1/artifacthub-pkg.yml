@@ -1,0 +1,33 @@
+version: 9.13.1
+name: java
+alternativeName: ""
+category: ""
+displayName: java
+createdAt: "2023-07-07T11:19:09Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:122ce10a4a4ee4d3b7a6aa412bbeeb8f611831193094f7af9d3394f63080e94f
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: java
+      image: index.docker.io/paketobuildpacks/java:9.13.1
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

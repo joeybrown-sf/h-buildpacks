@@ -1,0 +1,33 @@
+version: 2.6.1
+name: pipeline-builder-canary
+alternativeName: ""
+category: ""
+displayName: pipeline-builder-canary
+createdAt: "2024-05-23T20:51:26Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:c0ec934d9a050437bc8433b2a828ede1c74c03232dd8f57251b547cc8ec460ed
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: pipeline-builder-canary
+      image: index.docker.io/paketobuildpacks/pipeline-builder-canary:2.6.1
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

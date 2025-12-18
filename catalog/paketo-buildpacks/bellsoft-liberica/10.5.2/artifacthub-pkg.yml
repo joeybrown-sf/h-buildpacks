@@ -1,0 +1,33 @@
+version: 10.5.2
+name: bellsoft-liberica
+alternativeName: ""
+category: ""
+displayName: bellsoft-liberica
+createdAt: "2024-01-24T18:56:44Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:faaca3559a0b90d3cba157e477943a2e3aaddafe08ee6e927ee5b3e17ce94d95
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: bellsoft-liberica
+      image: index.docker.io/paketobuildpacks/bellsoft-liberica:10.5.2
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

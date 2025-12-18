@@ -1,0 +1,33 @@
+version: 10.1.6
+name: eclipse-openj9
+alternativeName: ""
+category: ""
+displayName: eclipse-openj9
+createdAt: "2023-08-31T13:32:39Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:80e5609c0cef5961386d5559b8da71bbe0dc8952060cba65f8158d678a65edcc
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: eclipse-openj9
+      image: index.docker.io/paketobuildpacks/eclipse-openj9:10.1.6
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

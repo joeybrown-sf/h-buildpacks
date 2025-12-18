@@ -1,0 +1,33 @@
+version: 0.1.12
+name: dotnet-core-aspnet
+alternativeName: ""
+category: ""
+displayName: dotnet-core-aspnet
+createdAt: "2021-06-11T15:50:36Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:ae9c3c1e352769a5120ba8304160196d5f842ff0740463cf9ad102a4c61bbb8b
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: dotnet-core-aspnet
+      image: index.docker.io/paketobuildpacks/dotnet-core-aspnet:0.1.12
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

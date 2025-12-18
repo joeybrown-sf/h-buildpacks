@@ -1,0 +1,33 @@
+version: 11.0.4
+name: bellsoft-liberica
+alternativeName: ""
+category: ""
+displayName: bellsoft-liberica
+createdAt: "2025-01-31T12:53:00Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:654a55bebeb696faf534b856b084767b78eb9227ac1a4c9792d31da6ef4e5c16
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: bellsoft-liberica
+      image: index.docker.io/paketobuildpacks/bellsoft-liberica:11.0.4
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

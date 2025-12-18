@@ -1,0 +1,33 @@
+version: 0.2.19
+name: php-memcached-session-handler
+alternativeName: ""
+category: ""
+displayName: php-memcached-session-handler
+createdAt: "2023-10-12T20:28:35Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:92a749fa78abd1ae82b1ed2fc416e077bb6e20e7264abe8b90a275c9a95589b4
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: php-memcached-session-handler
+      image: index.docker.io/paketobuildpacks/php-memcached-session-handler:0.2.19
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

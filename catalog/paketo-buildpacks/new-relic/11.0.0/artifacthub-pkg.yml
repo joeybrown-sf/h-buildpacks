@@ -1,0 +1,33 @@
+version: 11.0.0
+name: new-relic
+alternativeName: ""
+category: ""
+displayName: new-relic
+createdAt: "2025-10-07T12:20:10Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:6621b8eeae172e9f1cc145091977f58a2905ce0c0f5c1b7f3f53be9aac8936e2
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: new-relic
+      image: index.docker.io/paketobuildpacks/new-relic:11.0.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

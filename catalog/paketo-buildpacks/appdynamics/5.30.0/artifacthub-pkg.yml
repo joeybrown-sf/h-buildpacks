@@ -1,0 +1,33 @@
+version: 5.30.0
+name: appdynamics
+alternativeName: ""
+category: ""
+displayName: appdynamics
+createdAt: "2025-03-12T18:10:16Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:160785578eadb76103b8956e8ec2add2d44bed91602bb092c99b8283b17b056a
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: appdynamics
+      image: index.docker.io/paketobuildpacks/appdynamics:5.30.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

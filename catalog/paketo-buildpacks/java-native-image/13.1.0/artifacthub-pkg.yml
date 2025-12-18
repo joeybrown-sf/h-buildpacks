@@ -1,0 +1,33 @@
+version: 13.1.0
+name: java-native-image
+alternativeName: ""
+category: ""
+displayName: java-native-image
+createdAt: "2025-10-24T14:52:24Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:79513d5cad8e9820c1231914f310b3f5f8c88bdc4fa6e33e1a4c785793d330ab
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: java-native-image
+      image: index.docker.io/paketobuildpacks/java-native-image:13.1.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

@@ -1,0 +1,33 @@
+version: 1.3.0
+name: jattach
+alternativeName: ""
+category: ""
+displayName: jattach
+createdAt: "2023-02-25T04:24:09Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:24e0c169d3217941c76ab1b2cf0cb428face6d54ac79a8aa469ac25de721066f
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: jattach
+      image: index.docker.io/paketobuildpacks/jattach:1.3.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

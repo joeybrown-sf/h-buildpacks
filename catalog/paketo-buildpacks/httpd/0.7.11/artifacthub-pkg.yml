@@ -1,0 +1,33 @@
+version: 0.7.11
+name: httpd
+alternativeName: ""
+category: ""
+displayName: httpd
+createdAt: "2023-06-23T19:08:44Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:0ac25ea6532a8f2a876789e867264c7696465ba448dff16ac8fed959f9181474
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: httpd
+      image: index.docker.io/paketobuildpacks/httpd:0.7.11
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

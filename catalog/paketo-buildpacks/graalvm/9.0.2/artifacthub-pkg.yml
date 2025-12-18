@@ -1,0 +1,33 @@
+version: 9.0.2
+name: graalvm
+alternativeName: ""
+category: ""
+displayName: graalvm
+createdAt: "2025-02-27T22:28:57Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:7050d9fd215d9bb4682e08030dd42440011a74fa27f587c9fcfafcc50d6b7e84
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: graalvm
+      image: index.docker.io/paketobuildpacks/graalvm:9.0.2
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

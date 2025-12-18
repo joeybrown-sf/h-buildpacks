@@ -1,0 +1,33 @@
+version: 1.8.0
+name: pipenv
+alternativeName: ""
+category: ""
+displayName: pipenv
+createdAt: "2022-10-27T13:25:04Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:55b3565bd5f90f130161b13246521188fd31cc3eac3b9648fb9b1e82d230055b
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: pipenv
+      image: index.docker.io/paketobuildpacks/pipenv:1.8.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

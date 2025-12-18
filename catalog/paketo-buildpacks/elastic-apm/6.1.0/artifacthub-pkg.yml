@@ -1,0 +1,33 @@
+version: 6.1.0
+name: elastic-apm
+alternativeName: ""
+category: ""
+displayName: elastic-apm
+createdAt: "2023-10-25T13:01:56Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:9dca8c9d474dbf9b94f9108f41c740e91b961263550522e46dc5be6b9b10561a
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: elastic-apm
+      image: index.docker.io/paketobuildpacks/elastic-apm:6.1.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

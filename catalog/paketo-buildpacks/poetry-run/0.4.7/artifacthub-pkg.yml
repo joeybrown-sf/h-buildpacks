@@ -1,0 +1,33 @@
+version: 0.4.7
+name: poetry-run
+alternativeName: ""
+category: ""
+displayName: poetry-run
+createdAt: "2022-11-09T15:30:03Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:ff879097663a8476c190f46eb7f8d04343664ec348f2bc055f8e798b51966f0e
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: poetry-run
+      image: index.docker.io/paketobuildpacks/poetry-run:0.4.7
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

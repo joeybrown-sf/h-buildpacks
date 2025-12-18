@@ -1,0 +1,33 @@
+version: 14.1.0
+name: java
+alternativeName: ""
+category: ""
+displayName: java
+createdAt: "2024-05-24T18:22:35Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:6c7a6dd99eb7cbd6785134636a460e57a65b208860e780e5f5a4468369212e80
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: java
+      image: index.docker.io/paketobuildpacks/java:14.1.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

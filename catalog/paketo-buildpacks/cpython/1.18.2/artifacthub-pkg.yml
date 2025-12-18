@@ -1,0 +1,33 @@
+version: 1.18.2
+name: cpython
+alternativeName: ""
+category: ""
+displayName: cpython
+createdAt: "2025-11-12T05:17:41Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:f0e76e2ad6922cdc39b907856d998bde1ae3d46a13a97d5e5d9e82527b845c59
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: cpython
+      image: index.docker.io/paketobuildpacks/cpython:1.18.2
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

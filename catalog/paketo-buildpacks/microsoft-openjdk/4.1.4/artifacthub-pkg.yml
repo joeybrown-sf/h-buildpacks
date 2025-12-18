@@ -1,0 +1,33 @@
+version: 4.1.4
+name: microsoft-openjdk
+alternativeName: ""
+category: ""
+displayName: microsoft-openjdk
+createdAt: "2025-07-23T12:42:25Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:bc1759acc909d6fddf9754b8afca8e5a3cd39b634a86930d9b01b9327a103e4e
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: microsoft-openjdk
+      image: index.docker.io/paketobuildpacks/microsoft-openjdk:4.1.4
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

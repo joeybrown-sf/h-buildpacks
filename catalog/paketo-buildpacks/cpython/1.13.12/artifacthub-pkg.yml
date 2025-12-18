@@ -1,0 +1,33 @@
+version: 1.13.12
+name: cpython
+alternativeName: ""
+category: ""
+displayName: cpython
+createdAt: "2024-10-16T05:25:20Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:40cc115030f8b11b6ad2e167bd06b8cf5471db5e00c0958e12ab589809b83a88
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: cpython
+      image: index.docker.io/paketobuildpacks/cpython:1.13.12
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

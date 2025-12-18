@@ -1,0 +1,33 @@
+version: 9.2.0
+name: java-native-image
+alternativeName: ""
+category: ""
+displayName: java-native-image
+createdAt: "2024-04-19T15:40:23Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:c25c063a063452bbeb831c700f6abc30bb06dead4dce43295a2c1b6575503037
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: java-native-image
+      image: index.docker.io/paketobuildpacks/java-native-image:9.2.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

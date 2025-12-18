@@ -1,0 +1,33 @@
+version: 0.2.24
+name: source-removal
+alternativeName: ""
+category: ""
+displayName: source-removal
+createdAt: "2024-12-18T05:32:01Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:76490e2855a9c25a9efe453c17584f993b962f67109934b9a7b4d5621883cb4e
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: source-removal
+      image: index.docker.io/paketobuildpacks/source-removal:0.2.24
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

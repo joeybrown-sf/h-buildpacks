@@ -1,0 +1,33 @@
+version: 0.14.5
+name: python-start
+alternativeName: ""
+category: ""
+displayName: python-start
+createdAt: "2023-04-03T21:32:11Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:ef6a235e0790c4725197ba1a261e257ff7906bf9d0f56b2545bb98df60321ecc
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: python-start
+      image: index.docker.io/paketobuildpacks/python-start:0.14.5
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

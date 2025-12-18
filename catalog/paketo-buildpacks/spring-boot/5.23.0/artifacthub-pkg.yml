@@ -1,0 +1,33 @@
+version: 5.23.0
+name: spring-boot
+alternativeName: ""
+category: ""
+displayName: spring-boot
+createdAt: "2023-02-25T04:25:58Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:fc4d0db457abcb26d13adc74717e3c41ba4186ca4ef3d8d1955c04b1be683cd5
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: spring-boot
+      image: index.docker.io/paketobuildpacks/spring-boot:5.23.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

@@ -1,0 +1,33 @@
+version: 1.6.2
+name: npm-install
+alternativeName: ""
+category: ""
+displayName: npm-install
+createdAt: "2024-11-13T05:29:34Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:07b6896a2485f49e42994b008e815d5c48892373c8b988b776fd1a5e0cc5bef3
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: npm-install
+      image: index.docker.io/paketobuildpacks/npm-install:1.6.2
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

@@ -1,0 +1,33 @@
+version: 2.3.3
+name: node-run-script
+alternativeName: ""
+category: ""
+displayName: node-run-script
+createdAt: "2025-10-01T05:23:12Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:8d6dd9feff436773ec1d681de1fba5e1def91a78092bafef2badf02de07b886e
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: node-run-script
+      image: index.docker.io/paketobuildpacks/node-run-script:2.3.3
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

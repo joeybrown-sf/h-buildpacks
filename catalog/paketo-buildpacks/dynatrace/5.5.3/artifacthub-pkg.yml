@@ -1,0 +1,33 @@
+version: 5.5.3
+name: dynatrace
+alternativeName: ""
+category: ""
+displayName: dynatrace
+createdAt: "2023-10-25T12:54:14Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:abbc96ad82f5c8019fad6b980f96f99957bf0eb5030307be906c54948ffcc3c3
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: dynatrace
+      image: index.docker.io/paketobuildpacks/dynatrace:5.5.3
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

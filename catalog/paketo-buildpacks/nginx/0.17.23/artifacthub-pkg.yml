@@ -1,0 +1,33 @@
+version: 0.17.23
+name: nginx
+alternativeName: ""
+category: ""
+displayName: nginx
+createdAt: "2025-03-12T05:19:46Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:12b226f33c85bdc4849f1aa42e8e6f43711ce049a73d09e13ebd98d7e9ea0e22
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: nginx
+      image: index.docker.io/paketobuildpacks/nginx:0.17.23
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

@@ -1,0 +1,33 @@
+version: 4.1.2
+name: oracle
+alternativeName: ""
+category: ""
+displayName: oracle
+createdAt: "2025-04-17T12:07:17Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:c6beaee41669ab53662af7d1cef5a5228c3c97e3fac2ff4cf279fd713ea193ff
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: oracle
+      image: index.docker.io/paketobuildpacks/oracle:4.1.2
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

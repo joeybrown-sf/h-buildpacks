@@ -1,0 +1,33 @@
+version: 11.5.0
+name: java-native-image
+alternativeName: ""
+category: ""
+displayName: java-native-image
+createdAt: "2025-01-24T20:33:39Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:043ed663c18080af64a4820a0632cf347ee2e51f74c7a5e56511a78287f5e377
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: java-native-image
+      image: index.docker.io/paketobuildpacks/java-native-image:11.5.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

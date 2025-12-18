@@ -1,0 +1,33 @@
+version: 4.7.2
+name: image-labels
+alternativeName: ""
+category: ""
+displayName: image-labels
+createdAt: "2024-08-23T19:52:41Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:8cda959cf73f29ee214134394b57cde06d3cab8939618ba9fbe86bc0e9d29b99
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: image-labels
+      image: index.docker.io/paketobuildpacks/image-labels:4.7.2
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

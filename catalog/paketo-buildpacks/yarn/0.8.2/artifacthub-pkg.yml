@@ -1,0 +1,33 @@
+version: 0.8.2
+name: yarn
+alternativeName: ""
+category: ""
+displayName: yarn
+createdAt: "2022-09-02T14:54:14Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:85f3fe5c448bd04a6079cfc0843d26f613734c4ee24f6ca4e399092442fecaf7
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: yarn
+      image: index.docker.io/paketobuildpacks/yarn:0.8.2
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

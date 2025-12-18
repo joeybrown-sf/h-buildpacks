@@ -1,0 +1,33 @@
+version: 0.9.0
+name: poetry
+alternativeName: ""
+category: ""
+displayName: poetry
+createdAt: "2024-05-20T15:11:16Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:03684fe434b12359ff7a40276c882a192981e392e4d7574b149441df73b0f0b6
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: poetry
+      image: index.docker.io/paketobuildpacks/poetry:0.9.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

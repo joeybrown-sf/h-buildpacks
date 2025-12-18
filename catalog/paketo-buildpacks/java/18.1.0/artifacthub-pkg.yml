@@ -1,0 +1,33 @@
+version: 18.1.0
+name: java
+alternativeName: ""
+category: ""
+displayName: java
+createdAt: "2025-02-21T14:24:35Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:4ff6558b5fede7afdef85b930595a5a9fb772660cd42cf17470a7737bd10a936
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: java
+      image: index.docker.io/paketobuildpacks/java:18.1.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

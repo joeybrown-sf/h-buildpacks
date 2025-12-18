@@ -1,0 +1,33 @@
+version: 2.27.1
+name: python
+alternativeName: ""
+category: ""
+displayName: python
+createdAt: "2025-05-16T05:25:47Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:89fee1d7bbf47be63ca5358f5af7e9ce9d61600a56fb904f6ee7e788057a52d8
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: python
+      image: index.docker.io/paketobuildpacks/python:2.27.1
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

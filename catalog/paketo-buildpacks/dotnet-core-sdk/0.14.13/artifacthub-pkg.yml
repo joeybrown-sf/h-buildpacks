@@ -1,0 +1,33 @@
+version: 0.14.13
+name: dotnet-core-sdk
+alternativeName: ""
+category: ""
+displayName: dotnet-core-sdk
+createdAt: "2024-06-19T05:22:51Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:f90fb37ee1acf20bbb504e57a316253cef566f718f8483eff52bc0f99df97a1d
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: dotnet-core-sdk
+      image: index.docker.io/paketobuildpacks/dotnet-core-sdk:0.14.13
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

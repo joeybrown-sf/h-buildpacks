@@ -1,0 +1,33 @@
+version: 8.1.0
+name: nodejs
+alternativeName: ""
+category: ""
+displayName: nodejs
+createdAt: "2025-06-27T05:24:38Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:3d4965d5f216c1fe07442ef921d279c1203f2a8044d183fc8fb19f0559410cbd
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: nodejs
+      image: index.docker.io/paketobuildpacks/nodejs:8.1.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

@@ -1,0 +1,33 @@
+version: 10.2.1
+name: java
+alternativeName: ""
+category: ""
+displayName: java
+createdAt: "2023-10-20T14:12:05Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:1c2f70b57d8ee38412369439034778a3e425623d29752246cb604338301e4418
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: java
+      image: index.docker.io/paketobuildpacks/java:10.2.1
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

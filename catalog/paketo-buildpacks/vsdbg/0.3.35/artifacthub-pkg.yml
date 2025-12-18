@@ -1,0 +1,33 @@
+version: 0.3.35
+name: vsdbg
+alternativeName: ""
+category: ""
+displayName: vsdbg
+createdAt: "2024-12-25T05:29:08Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:81efc56f78566d07a0779ce988dfa4541fc543e9fd9a3eca0f6bf523114177b7
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: vsdbg
+      image: index.docker.io/paketobuildpacks/vsdbg:0.3.35
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

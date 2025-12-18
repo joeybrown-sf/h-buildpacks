@@ -1,0 +1,33 @@
+version: 3.4.0
+name: microsoft-openjdk
+alternativeName: ""
+category: ""
+displayName: microsoft-openjdk
+createdAt: "2024-10-21T13:21:36Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:4634273ebcc30edf9e4eae7e32f800e98681046880ced6f5da6168adad05f23c
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: microsoft-openjdk
+      image: index.docker.io/paketobuildpacks/microsoft-openjdk:3.4.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

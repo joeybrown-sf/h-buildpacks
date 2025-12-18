@@ -1,0 +1,33 @@
+version: 0.12.4
+name: python-start
+alternativeName: ""
+category: ""
+displayName: python-start
+createdAt: "2022-10-13T16:31:21Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:4017d0af050589596b5776872573e291dcab35e2963cd97e18775c3eacde95f4
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: python-start
+      image: index.docker.io/paketobuildpacks/python-start:0.12.4
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

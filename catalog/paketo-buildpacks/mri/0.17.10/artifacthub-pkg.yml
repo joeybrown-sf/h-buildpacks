@@ -1,0 +1,33 @@
+version: 0.17.10
+name: mri
+alternativeName: ""
+category: ""
+displayName: mri
+createdAt: "2024-07-31T05:14:15Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:696f17e3b824d92ebca68b45391e3736a1c8cfa4af2acd74ede153b272819929
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: mri
+      image: index.docker.io/paketobuildpacks/mri:0.17.10
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

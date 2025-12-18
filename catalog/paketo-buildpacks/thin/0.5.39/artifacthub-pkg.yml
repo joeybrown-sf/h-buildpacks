@@ -1,0 +1,33 @@
+version: 0.5.39
+name: thin
+alternativeName: ""
+category: ""
+displayName: thin
+createdAt: "2024-06-26T05:29:11Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:d514b64280419b4144602db6eda422ced4a00e891b1133d4755821ef07af9763
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: thin
+      image: index.docker.io/paketobuildpacks/thin:0.5.39
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

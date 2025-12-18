@@ -1,0 +1,33 @@
+version: 2.8.0
+name: microsoft-openjdk
+alternativeName: ""
+category: ""
+displayName: microsoft-openjdk
+createdAt: "2023-02-03T03:47:08Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:2d3dba3aea0466c7f8079aaedde6962adfb2b80cead2765557e061c244d2bc41
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: microsoft-openjdk
+      image: index.docker.io/paketobuildpacks/microsoft-openjdk:2.8.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

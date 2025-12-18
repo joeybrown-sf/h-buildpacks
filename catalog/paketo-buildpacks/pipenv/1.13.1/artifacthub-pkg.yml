@@ -1,0 +1,33 @@
+version: 1.13.1
+name: pipenv
+alternativeName: ""
+category: ""
+displayName: pipenv
+createdAt: "2023-01-12T22:21:15Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:8f14d65dc1cc2ed5d10800bcd3a4adfe85c5052fd13a8f93fce5b7cb0611712e
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: pipenv
+      image: index.docker.io/paketobuildpacks/pipenv:1.13.1
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

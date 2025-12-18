@@ -1,0 +1,33 @@
+version: 6.0.0
+name: apache-skywalking
+alternativeName: ""
+category: ""
+displayName: apache-skywalking
+createdAt: "2023-09-06T13:17:17Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:c28b1f8370d141699b9fb6305286542c70fe75325ae0550f1f24ec0114e20521
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: apache-skywalking
+      image: index.docker.io/paketobuildpacks/apache-skywalking:6.0.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

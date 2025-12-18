@@ -1,0 +1,33 @@
+version: 2.3.0
+name: python
+alternativeName: ""
+category: ""
+displayName: python
+createdAt: "2022-10-19T19:37:58Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:780427bb6ab1fbab918bdd5e14724d425e118a8da7949d106b5b6d59207f5fe2
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: python
+      image: index.docker.io/paketobuildpacks/python:2.3.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

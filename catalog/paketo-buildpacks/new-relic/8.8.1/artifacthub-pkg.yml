@@ -1,0 +1,33 @@
+version: 8.8.1
+name: new-relic
+alternativeName: ""
+category: ""
+displayName: new-relic
+createdAt: "2024-02-07T14:21:56Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:fedb73feece3abc6e562955bbf8e00a4cc940bd23a6a7536033f3bad15093b38
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: new-relic
+      image: index.docker.io/paketobuildpacks/new-relic:8.8.1
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

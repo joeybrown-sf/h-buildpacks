@@ -1,0 +1,33 @@
+version: 0.7.4
+name: cpython
+alternativeName: ""
+category: ""
+displayName: cpython
+createdAt: "2021-11-17T22:06:52Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:6131d1c0aab14ea8c300f9d086a00dc16c8c94ba60036081586571d30f76d638
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: cpython
+      image: index.docker.io/paketobuildpacks/cpython:0.7.4
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

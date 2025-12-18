@@ -1,0 +1,33 @@
+version: 0.6.0
+name: poetry-install
+alternativeName: ""
+category: ""
+displayName: poetry-install
+createdAt: "2025-08-29T14:53:15Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:ca3bd874966f45fcf807fd655ee703a57567924edcc5bbd0a65955696cb415df
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: poetry-install
+      image: index.docker.io/paketobuildpacks/poetry-install:0.6.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

@@ -1,0 +1,33 @@
+version: 0.0.56
+name: rackup
+alternativeName: ""
+category: ""
+displayName: rackup
+createdAt: "2021-04-22T21:10:27Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:1f030c566230745c594a35cffd7fd6a6e78c171c23b6b543ad2d64a6d98fc336
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: rackup
+      image: index.docker.io/paketobuildpacks/rackup:0.0.56
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

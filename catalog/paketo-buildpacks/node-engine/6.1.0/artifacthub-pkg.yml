@@ -1,0 +1,33 @@
+version: 6.1.0
+name: node-engine
+alternativeName: ""
+category: ""
+displayName: node-engine
+createdAt: "2025-06-25T05:25:49Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:0b6a97115c038e7b3ccd0d0432d219837b03c05ab5d4f27d7e4c13b2f5656de1
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: node-engine
+      image: index.docker.io/paketobuildpacks/node-engine:6.1.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

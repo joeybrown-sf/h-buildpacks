@@ -1,0 +1,33 @@
+version: 0.15.1
+name: python-start
+alternativeName: ""
+category: ""
+displayName: python-start
+createdAt: "2025-09-07T22:49:46Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:b8993b8f53213bbb2a03c34c28a2fb1ac9836b60661dd15153dff360c4e5adc8
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: python-start
+      image: index.docker.io/paketobuildpacks/python-start:0.15.1
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

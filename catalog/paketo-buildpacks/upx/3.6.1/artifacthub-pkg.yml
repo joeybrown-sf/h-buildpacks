@@ -1,0 +1,33 @@
+version: 3.6.1
+name: upx
+alternativeName: ""
+category: ""
+displayName: upx
+createdAt: "2024-07-26T22:24:32Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:548429dbd657e98f5bb4950ed8759b8b4e12168c5a5ffd03fcf12d41fe6148ef
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: upx
+      image: index.docker.io/paketobuildpacks/upx:3.6.1
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

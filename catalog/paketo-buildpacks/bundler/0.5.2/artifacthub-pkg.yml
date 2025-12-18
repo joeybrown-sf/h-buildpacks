@@ -1,0 +1,33 @@
+version: 0.5.2
+name: bundler
+alternativeName: ""
+category: ""
+displayName: bundler
+createdAt: "2022-06-17T16:04:27Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:174db6beaa9d1ec9c6694c1bcf3dff1828f0679eb69c278e4bb9f5b57847e441
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: bundler
+      image: index.docker.io/paketobuildpacks/bundler:0.5.2
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

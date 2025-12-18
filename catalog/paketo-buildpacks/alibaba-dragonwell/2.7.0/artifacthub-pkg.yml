@@ -1,0 +1,33 @@
+version: 2.7.0
+name: alibaba-dragonwell
+alternativeName: ""
+category: ""
+displayName: alibaba-dragonwell
+createdAt: "2023-02-07T17:55:55Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:decc6d5b56b24dfa4748a36939faee102ad24a9f8e4ab66e2a886b2e4014ba15
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: alibaba-dragonwell
+      image: index.docker.io/paketobuildpacks/alibaba-dragonwell:2.7.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

@@ -1,0 +1,33 @@
+version: 1.13.1
+name: apache-tomee
+alternativeName: ""
+category: ""
+displayName: apache-tomee
+createdAt: "2025-08-27T13:56:24Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:94ae05c9f926f88ac1cfe5733ac00c614638156f600ce24bca088d57ac6d2828
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: apache-tomee
+      image: index.docker.io/paketobuildpacks/apache-tomee:1.13.1
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

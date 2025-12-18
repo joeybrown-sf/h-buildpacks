@@ -1,0 +1,33 @@
+version: 1.8.6
+name: cpython
+alternativeName: ""
+category: ""
+displayName: cpython
+createdAt: "2023-04-03T21:29:32Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:f7f1f7b9df5819975993e44b10ff0fc55fa97773eacd49f669ca0f3015083412
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: cpython
+      image: index.docker.io/paketobuildpacks/cpython:1.8.6
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

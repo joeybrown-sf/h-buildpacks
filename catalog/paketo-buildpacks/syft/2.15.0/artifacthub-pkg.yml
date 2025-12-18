@@ -1,0 +1,33 @@
+version: 2.15.0
+name: syft
+alternativeName: ""
+category: ""
+displayName: syft
+createdAt: "2025-05-21T12:16:47Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:9234d3815a25a84ccb3d6f723517753a56169e0a6e0fb90d9105e5e8f128b838
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: syft
+      image: index.docker.io/paketobuildpacks/syft:2.15.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

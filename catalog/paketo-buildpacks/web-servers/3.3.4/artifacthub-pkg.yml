@@ -1,0 +1,33 @@
+version: 3.3.4
+name: web-servers
+alternativeName: ""
+category: ""
+displayName: web-servers
+createdAt: "2025-12-12T05:28:41Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:557afdbb1f72a6fd14fc208a318e1602c09ec88bd15a27f004cbbb33d118c8ee
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: web-servers
+      image: index.docker.io/paketobuildpacks/web-servers:3.3.4
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

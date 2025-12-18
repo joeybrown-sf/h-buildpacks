@@ -1,0 +1,33 @@
+version: 1.7.8
+name: apache-tomee
+alternativeName: ""
+category: ""
+displayName: apache-tomee
+createdAt: "2023-11-03T16:37:21Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:6eefef25537231834103b763bbe912f38750d6561b563a3a95137662936e8a08
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: apache-tomee
+      image: index.docker.io/paketobuildpacks/apache-tomee:1.7.8
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

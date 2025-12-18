@@ -1,0 +1,33 @@
+version: 0.6.13
+name: icu
+alternativeName: ""
+category: ""
+displayName: icu
+createdAt: "2023-06-23T19:16:35Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:67a434759367031185d386812eb7d40da6595852d2a4cca90f6f5471d2d12308
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: icu
+      image: index.docker.io/paketobuildpacks/icu:0.6.13
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

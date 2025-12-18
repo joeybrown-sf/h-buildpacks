@@ -1,0 +1,33 @@
+version: 0.22.0
+name: nodejs
+alternativeName: ""
+category: ""
+displayName: nodejs
+createdAt: "2022-08-03T14:10:34Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:bc9c4e6098be4f5de8b07e0c0c4207a348642b5cfb7c684f230f10ab9fae3f3e
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: nodejs
+      image: index.docker.io/paketobuildpacks/nodejs:0.22.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

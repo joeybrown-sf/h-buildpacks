@@ -1,0 +1,33 @@
+version: 12.0.3
+name: adoptium
+alternativeName: ""
+category: ""
+displayName: adoptium
+createdAt: "2025-02-27T22:25:38Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:58fcf844a1908b84a46b0fa0449a2c1b162631f01f368b814e9b3f590091c382
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: adoptium
+      image: index.docker.io/paketobuildpacks/adoptium:12.0.3
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

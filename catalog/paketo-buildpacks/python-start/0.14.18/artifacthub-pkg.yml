@@ -1,0 +1,33 @@
+version: 0.14.18
+name: python-start
+alternativeName: ""
+category: ""
+displayName: python-start
+createdAt: "2024-07-03T05:28:03Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:0ba721f15bcabf5f201da800c05311a37b597bc3d1b398e6f0e4fda1717cf0a4
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: python-start
+      image: index.docker.io/paketobuildpacks/python-start:0.14.18
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

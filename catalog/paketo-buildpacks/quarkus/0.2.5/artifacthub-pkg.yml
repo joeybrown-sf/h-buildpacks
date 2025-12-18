@@ -1,0 +1,33 @@
+version: 0.2.5
+name: quarkus
+alternativeName: ""
+category: ""
+displayName: quarkus
+createdAt: "2024-02-23T17:32:08Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:a37a67fe27fa6d6027ffefe28523d9ae50f567387cdbca710d9cf97471c1456f
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: quarkus
+      image: index.docker.io/paketobuildpacks/quarkus:0.2.5
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

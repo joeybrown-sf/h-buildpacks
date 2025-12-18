@@ -1,0 +1,33 @@
+version: 3.10.0
+name: ca-certificates
+alternativeName: ""
+category: ""
+displayName: ca-certificates
+createdAt: "2025-03-17T21:48:43Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:a657ca4ac593317aebf26fcf3a0c95a1fe677f4e7c9a61ca49ea8fe6ecc8fef2
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: ca-certificates
+      image: index.docker.io/paketobuildpacks/ca-certificates:3.10.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

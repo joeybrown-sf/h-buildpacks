@@ -1,0 +1,33 @@
+version: 7.7.1
+name: node-engine
+alternativeName: ""
+category: ""
+displayName: node-engine
+createdAt: "2025-10-08T05:24:35Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:a68307a4326a11cc4b79b7416da2b9f10eabddb905417fb3757f0864cf47e8fa
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: node-engine
+      image: index.docker.io/paketobuildpacks/node-engine:7.7.1
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

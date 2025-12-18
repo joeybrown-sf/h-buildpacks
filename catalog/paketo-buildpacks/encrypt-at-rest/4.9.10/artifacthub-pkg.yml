@@ -1,0 +1,33 @@
+version: 4.9.10
+name: encrypt-at-rest
+alternativeName: ""
+category: ""
+displayName: encrypt-at-rest
+createdAt: "2025-11-12T13:03:38Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:39e99993f80db0227a12d91e240228b2f9a19f1d7beeb5f0540503a14cd7dfa4
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: encrypt-at-rest
+      image: index.docker.io/paketobuildpacks/encrypt-at-rest:4.9.10
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

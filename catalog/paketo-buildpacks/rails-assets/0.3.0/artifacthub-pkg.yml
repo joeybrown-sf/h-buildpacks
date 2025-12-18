@@ -1,0 +1,33 @@
+version: 0.3.0
+name: rails-assets
+alternativeName: ""
+category: ""
+displayName: rails-assets
+createdAt: "2021-10-21T21:53:11Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:69a0a3f776943424ecbd1125a037358e4137bfcd06ff13ce022c56a2645e1dd1
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: rails-assets
+      image: index.docker.io/paketobuildpacks/rails-assets:0.3.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

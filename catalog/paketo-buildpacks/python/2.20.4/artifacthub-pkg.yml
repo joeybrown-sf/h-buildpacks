@@ -1,0 +1,33 @@
+version: 2.20.4
+name: python
+alternativeName: ""
+category: ""
+displayName: python
+createdAt: "2024-10-04T05:34:51Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:c43c2d65cf4b9979ccca50961991df5410d0e0c22e6a6284527b7f8b6546b355
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: python
+      image: index.docker.io/paketobuildpacks/python:2.20.4
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

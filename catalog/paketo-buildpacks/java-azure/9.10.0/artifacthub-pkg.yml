@@ -1,0 +1,33 @@
+version: 9.10.0
+name: java-azure
+alternativeName: ""
+category: ""
+displayName: java-azure
+createdAt: "2023-03-01T15:58:44Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:1a467a989ab7cdc7e1cc4911eee9ea1e808be54b34d4c56deddc7f3daf1d395f
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: java-azure
+      image: index.docker.io/paketobuildpacks/java-azure:9.10.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

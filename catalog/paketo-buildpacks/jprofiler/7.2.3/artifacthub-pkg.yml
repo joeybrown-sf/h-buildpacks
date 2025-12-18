@@ -1,0 +1,33 @@
+version: 7.2.3
+name: jprofiler
+alternativeName: ""
+category: ""
+displayName: jprofiler
+createdAt: "2025-02-13T13:29:06Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:5ea4eab80b47e843f73b817e2b6c5403a8c6680dd3565174e6b09be30089ace4
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: jprofiler
+      image: index.docker.io/paketobuildpacks/jprofiler:7.2.3
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

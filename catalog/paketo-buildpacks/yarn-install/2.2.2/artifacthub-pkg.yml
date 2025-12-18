@@ -1,0 +1,33 @@
+version: 2.2.2
+name: yarn-install
+alternativeName: ""
+category: ""
+displayName: yarn-install
+createdAt: "2025-05-14T05:26:37Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:adce406240253b122f8bae8b4efa0f2ca45a69bf0fb9b86149ee5d736d27ec7c
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: yarn-install
+      image: index.docker.io/paketobuildpacks/yarn-install:2.2.2
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

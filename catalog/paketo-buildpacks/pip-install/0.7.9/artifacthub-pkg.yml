@@ -1,0 +1,33 @@
+version: 0.7.9
+name: pip-install
+alternativeName: ""
+category: ""
+displayName: pip-install
+createdAt: "2025-11-12T05:11:09Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:0032a198724a3dbfa27e9807b8612aae03876053f55083a67e2df6056f9778f8
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: pip-install
+      image: index.docker.io/paketobuildpacks/pip-install:0.7.9
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

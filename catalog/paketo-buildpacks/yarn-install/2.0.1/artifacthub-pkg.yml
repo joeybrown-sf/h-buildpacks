@@ -1,0 +1,33 @@
+version: 2.0.1
+name: yarn-install
+alternativeName: ""
+category: ""
+displayName: yarn-install
+createdAt: "2024-07-03T05:29:10Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:ae21ef304ce78eb29c08a95c22b61917d19c92bab2dd73788ff557d48542874b
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: yarn-install
+      image: index.docker.io/paketobuildpacks/yarn-install:2.0.1
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

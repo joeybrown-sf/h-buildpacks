@@ -1,0 +1,33 @@
+version: 1.5.0
+name: ubi-nodejs-extension
+alternativeName: ""
+category: ""
+displayName: ubi-nodejs-extension
+createdAt: "2025-08-27T15:27:36Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:9b14aed9db2ed41a9c68aa3bbad32747ee719892dc50481ed016785d0c0cbc84
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: ubi-nodejs-extension
+      image: index.docker.io/paketobuildpacks/ubi-nodejs-extension:1.5.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

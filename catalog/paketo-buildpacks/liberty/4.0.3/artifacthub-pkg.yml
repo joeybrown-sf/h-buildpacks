@@ -1,0 +1,33 @@
+version: 4.0.3
+name: liberty
+alternativeName: ""
+category: ""
+displayName: liberty
+createdAt: "2024-03-26T02:40:53Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:cd7f4d1f1eb35137ee4df7ca82975b4ac7ec5f5695a8012d7338b251c6ab9ae8
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: liberty
+      image: index.docker.io/paketobuildpacks/liberty:4.0.3
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

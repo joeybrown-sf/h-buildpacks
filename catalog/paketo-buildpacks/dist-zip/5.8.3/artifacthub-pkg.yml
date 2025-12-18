@@ -1,0 +1,33 @@
+version: 5.8.3
+name: dist-zip
+alternativeName: ""
+category: ""
+displayName: dist-zip
+createdAt: "2024-08-23T19:50:47Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:c58540e507aafd98021510ab92fc779c205bef28f720a95f11b3dafa395ec0ea
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: dist-zip
+      image: index.docker.io/paketobuildpacks/dist-zip:5.8.3
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

@@ -1,0 +1,33 @@
+version: 2.11.0
+name: clojure-tools
+alternativeName: ""
+category: ""
+displayName: clojure-tools
+createdAt: "2024-08-06T12:50:18Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:d18a181bf197815a9d346fc3c971cb1d7767e42a02bb52c4364ac42f6392aca8
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: clojure-tools
+      image: index.docker.io/paketobuildpacks/clojure-tools:2.11.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

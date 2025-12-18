@@ -1,0 +1,33 @@
+version: 3.2.3
+name: microsoft-openjdk
+alternativeName: ""
+category: ""
+displayName: microsoft-openjdk
+createdAt: "2023-11-22T20:40:58Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:0813e872035fb2feb0452124a97ec364d087f80ac84e9d0df3eb0182a292100b
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: microsoft-openjdk
+      image: index.docker.io/paketobuildpacks/microsoft-openjdk:3.2.3
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

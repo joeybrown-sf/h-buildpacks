@@ -1,0 +1,33 @@
+version: 1.1.3
+name: git
+alternativeName: ""
+category: ""
+displayName: git
+createdAt: "2025-10-01T05:15:41Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:631de18758a31b49e22446e82222a661051e74a990b971a9229bbc1f54bbff24
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: git
+      image: index.docker.io/paketobuildpacks/git:1.1.3
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

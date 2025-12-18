@@ -1,0 +1,33 @@
+version: 4.18.0
+name: go
+alternativeName: ""
+category: ""
+displayName: go
+createdAt: "2025-10-01T16:47:28Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:9a175a94e153c07debd3e768882957de833de0fd4d174cf62746144d4864fc01
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: go
+      image: index.docker.io/paketobuildpacks/go:4.18.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

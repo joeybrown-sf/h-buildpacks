@@ -1,0 +1,33 @@
+version: 0.0.179
+name: dep
+alternativeName: ""
+category: ""
+displayName: dep
+createdAt: "2021-06-22T17:20:59Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:79e32c83389304c7819c51812b96647046632752d8aa2428a9a600e75822854c
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: dep
+      image: index.docker.io/paketobuildpacks/dep:0.0.179
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

@@ -1,0 +1,33 @@
+version: 7.5.2
+name: gradle
+alternativeName: ""
+category: ""
+displayName: gradle
+createdAt: "2023-10-02T16:35:13Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:dbc5a64bd2d5c7f99ec13329b5e11a9c4a18a81739aebc5e32bed06a4d57c94b
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: gradle
+      image: index.docker.io/paketobuildpacks/gradle:7.5.2
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

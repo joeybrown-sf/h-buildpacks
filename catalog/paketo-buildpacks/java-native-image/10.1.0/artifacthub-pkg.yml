@@ -1,0 +1,33 @@
+version: 10.1.0
+name: java-native-image
+alternativeName: ""
+category: ""
+displayName: java-native-image
+createdAt: "2024-10-04T20:37:17Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:fb69c039ac3e96be22e526fb3a820f67c8a204fb572464fa0e613bacbb0ad90c
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: java-native-image
+      image: index.docker.io/paketobuildpacks/java-native-image:10.1.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

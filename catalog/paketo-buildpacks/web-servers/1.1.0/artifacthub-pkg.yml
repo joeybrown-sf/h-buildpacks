@@ -1,0 +1,33 @@
+version: 1.1.0
+name: web-servers
+alternativeName: ""
+category: ""
+displayName: web-servers
+createdAt: "2024-12-20T05:26:44Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:146477612d8c28ea16741dd057db2b3c7f54df94036c96283fd57f91aadf92ff
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: web-servers
+      image: index.docker.io/paketobuildpacks/web-servers:1.1.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

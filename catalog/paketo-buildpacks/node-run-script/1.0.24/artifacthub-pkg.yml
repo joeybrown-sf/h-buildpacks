@@ -1,0 +1,33 @@
+version: 1.0.24
+name: node-run-script
+alternativeName: ""
+category: ""
+displayName: node-run-script
+createdAt: "2024-08-07T05:24:06Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:5fbc588b6195014f3ae0b46b2aa3beb65b9b72821daaf8ab00f67f01162ba470
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: node-run-script
+      image: index.docker.io/paketobuildpacks/node-run-script:1.0.24
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

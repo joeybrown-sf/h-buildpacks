@@ -1,0 +1,33 @@
+version: 2.5.0
+name: opentelemetry
+alternativeName: ""
+category: ""
+displayName: opentelemetry
+createdAt: "2024-10-18T12:10:45Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:4103e273f4ee4a103938a8d205f33c08a750d8f0c3c314be1aa28fbb97abe31a
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: opentelemetry
+      image: index.docker.io/paketobuildpacks/opentelemetry:2.5.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

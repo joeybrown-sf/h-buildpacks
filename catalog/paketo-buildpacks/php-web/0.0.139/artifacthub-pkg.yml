@@ -1,0 +1,33 @@
+version: 0.0.139
+name: php-web
+alternativeName: ""
+category: ""
+displayName: php-web
+createdAt: "2021-03-29T15:39:46Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:c662788519f068eddf13453a36bdeaa48dfac97c73ea3a01ac2bea398ee5f5e4
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: php-web
+      image: index.docker.io/paketobuildpacks/php-web:0.0.139
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

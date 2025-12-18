@@ -1,0 +1,33 @@
+version: 0.16.1
+name: ruby
+alternativeName: ""
+category: ""
+displayName: ruby
+createdAt: "2022-09-26T15:23:45Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:70af8d3477d56066d7c2c8e83802bfff652aa2d3137ef6a8fe78d0936776eebe
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: ruby
+      image: index.docker.io/paketobuildpacks/ruby:0.16.1
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

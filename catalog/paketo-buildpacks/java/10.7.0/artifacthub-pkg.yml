@@ -1,0 +1,33 @@
+version: 10.7.0
+name: java
+alternativeName: ""
+category: ""
+displayName: java
+createdAt: "2024-01-19T16:58:36Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:5b74c0946a6ef69a7d7ec2ff6bcff0d323bf0590ee67dfe7188db2cc1f2e1bff
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: java
+      image: index.docker.io/paketobuildpacks/java:10.7.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

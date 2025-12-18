@@ -1,0 +1,33 @@
+version: 1.4.3
+name: java-memory-assistant
+alternativeName: ""
+category: ""
+displayName: java-memory-assistant
+createdAt: "2023-06-08T01:30:12Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:5fb527719ae3baef4b81ec4ed87c7ec7b542ea52b1f21f737cdd107385f4f8a6
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: java-memory-assistant
+      image: index.docker.io/paketobuildpacks/java-memory-assistant:1.4.3
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

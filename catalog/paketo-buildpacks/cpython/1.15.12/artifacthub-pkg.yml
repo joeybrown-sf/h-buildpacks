@@ -1,0 +1,33 @@
+version: 1.15.12
+name: cpython
+alternativeName: ""
+category: ""
+displayName: cpython
+createdAt: "2025-07-23T05:22:22Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:fd51419b59bd8942dee70a5e9acbb7d8d2c7497a9d914dc8a7d39810c01f5500
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: cpython
+      image: index.docker.io/paketobuildpacks/cpython:1.15.12
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

@@ -1,0 +1,33 @@
+version: 8.0.1
+name: jprofiler
+alternativeName: ""
+category: ""
+displayName: jprofiler
+createdAt: "2025-08-23T02:20:20Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:2974f4b6e5f709d8b00213d64c1e3072a4db24a9ad65f858c75c66819cd6130a
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: jprofiler
+      image: index.docker.io/paketobuildpacks/jprofiler:8.0.1
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

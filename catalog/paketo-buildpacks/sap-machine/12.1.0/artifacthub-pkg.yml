@@ -1,0 +1,33 @@
+version: 12.1.0
+name: sap-machine
+alternativeName: ""
+category: ""
+displayName: sap-machine
+createdAt: "2025-03-25T14:37:44Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:9a23de4806bfdd98aac002765fce0f9f55b2d6ba4d363e586732d6d5c5159ebd
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: sap-machine
+      image: index.docker.io/paketobuildpacks/sap-machine:12.1.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

@@ -1,0 +1,33 @@
+version: 5.37.0
+name: datadog
+alternativeName: ""
+category: ""
+displayName: datadog
+createdAt: "2025-08-05T12:39:46Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:f0463b55b9ce50b88697628528de94629195b6a00ba5209f941ea9c74bf60414
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: datadog
+      image: index.docker.io/paketobuildpacks/datadog:5.37.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

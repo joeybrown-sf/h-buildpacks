@@ -1,0 +1,33 @@
+version: 2.0.14
+name: go-build
+alternativeName: ""
+category: ""
+displayName: go-build
+createdAt: "2023-03-29T15:16:33Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:155e1a000e482e2c88201ead9e852b28f5bfd984ca0cc831929b0043020c6fb9
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: go-build
+      image: index.docker.io/paketobuildpacks/go-build:2.0.14
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

@@ -1,0 +1,33 @@
+version: 1.8.0
+name: java-memory-assistant
+alternativeName: ""
+category: ""
+displayName: java-memory-assistant
+createdAt: "2025-03-18T01:18:58Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:46dd09a0cb1cb8235eb5b26746f1fbfe1521a3d379c6dea4c75d7461edf997bc
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: java-memory-assistant
+      image: index.docker.io/paketobuildpacks/java-memory-assistant:1.8.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

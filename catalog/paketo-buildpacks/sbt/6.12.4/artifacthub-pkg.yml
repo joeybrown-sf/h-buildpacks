@@ -1,0 +1,33 @@
+version: 6.12.4
+name: sbt
+alternativeName: ""
+category: ""
+displayName: sbt
+createdAt: "2023-08-25T14:14:36Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:c810e94cfa7553bfd34067bc36123c844147f9f9019c59be30fe6796189df5c0
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: sbt
+      image: index.docker.io/paketobuildpacks/sbt:6.12.4
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

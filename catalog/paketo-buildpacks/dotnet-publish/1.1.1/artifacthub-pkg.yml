@@ -1,0 +1,33 @@
+version: 1.1.1
+name: dotnet-publish
+alternativeName: ""
+category: ""
+displayName: dotnet-publish
+createdAt: "2025-11-12T05:18:36Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:bad163bd2c8e31c9977ab8edd7e6e76e26a5e2d862a0732da085f57a418b40cc
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: dotnet-publish
+      image: index.docker.io/paketobuildpacks/dotnet-publish:1.1.1
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

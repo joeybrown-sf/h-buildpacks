@@ -1,0 +1,33 @@
+version: 0.4.2
+name: git
+alternativeName: ""
+category: ""
+displayName: git
+createdAt: "2022-04-12T18:54:15Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:4c981e84d80929958e050262253cd1a2dcd541a0f43132f521f8a29f901a4cf5
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: git
+      image: index.docker.io/paketobuildpacks/git:0.4.2
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

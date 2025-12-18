@@ -1,0 +1,33 @@
+version: 2.12.0
+name: python
+alternativeName: ""
+category: ""
+displayName: python
+createdAt: "2023-05-25T17:10:06Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:1a4d11296027a168879a2de25cc814bf260309809c44810f355836a99542edac
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: python
+      image: index.docker.io/paketobuildpacks/python:2.12.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

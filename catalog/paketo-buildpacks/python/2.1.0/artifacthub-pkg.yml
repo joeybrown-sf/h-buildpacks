@@ -1,0 +1,33 @@
+version: 2.1.0
+name: python
+alternativeName: ""
+category: ""
+displayName: python
+createdAt: "2022-09-06T21:53:12Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:b28043ea66c11b12a342b2db0d1f6cea7152536c433f06cff51a813dd728c5f4
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: python
+      image: index.docker.io/paketobuildpacks/python:2.1.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

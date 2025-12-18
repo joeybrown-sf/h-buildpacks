@@ -1,0 +1,33 @@
+version: 0.1.12
+name: dotnet-core-runtime
+alternativeName: ""
+category: ""
+displayName: dotnet-core-runtime
+createdAt: "2021-06-11T14:54:34Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:f81d8a503014aeccb162de5ff43ab1f41bf92827af31c5e690fb0182e49fc102
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: dotnet-core-runtime
+      image: index.docker.io/paketobuildpacks/dotnet-core-runtime:0.1.12
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

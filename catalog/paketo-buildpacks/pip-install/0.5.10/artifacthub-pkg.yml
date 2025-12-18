@@ -1,0 +1,33 @@
+version: 0.5.10
+name: pip-install
+alternativeName: ""
+category: ""
+displayName: pip-install
+createdAt: "2023-03-16T18:49:11Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:69e45f3b8ef774f7acbd28db715e6aededf7989b4b1f06970ec45e5ae2f6e76e
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: pip-install
+      image: index.docker.io/paketobuildpacks/pip-install:0.5.10
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

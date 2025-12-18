@@ -1,0 +1,33 @@
+version: 0.14.0
+name: dotnet-core
+alternativeName: ""
+category: ""
+displayName: dotnet-core
+createdAt: "2022-03-16T16:33:33Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:b4a4f9735af651c57d2c75c48f8ac0f5e5d1b836fbc5b35eea68e8908283365b
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: dotnet-core
+      image: index.docker.io/paketobuildpacks/dotnet-core:0.14.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

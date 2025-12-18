@@ -1,0 +1,33 @@
+version: 7.3.0
+name: appdynamics
+alternativeName: ""
+category: ""
+displayName: appdynamics
+createdAt: "2025-12-12T17:02:59Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:12aa92f0c89b30c0c3b68ac7fd9b4dc01ef57f30bdadfd651ce574b671de3995
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: appdynamics
+      image: index.docker.io/paketobuildpacks/appdynamics:7.3.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

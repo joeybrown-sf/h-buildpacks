@@ -1,0 +1,33 @@
+version: 0.2.34
+name: php-redis-session-handler
+alternativeName: ""
+category: ""
+displayName: php-redis-session-handler
+createdAt: "2024-07-03T05:18:18Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:4133135fc9496076ada65cef16d9c3c23e74b18fd83dc4886290982cdb831e44
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: php-redis-session-handler
+      image: index.docker.io/paketobuildpacks/php-redis-session-handler:0.2.34
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

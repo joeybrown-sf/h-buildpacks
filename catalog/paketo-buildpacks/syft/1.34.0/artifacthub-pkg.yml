@@ -1,0 +1,33 @@
+version: 1.34.0
+name: syft
+alternativeName: ""
+category: ""
+displayName: syft
+createdAt: "2023-08-17T18:26:36Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:1b6a6c6331ec88fa2a38fae08a3fcfa44aac4f4a14d950be2c0e3b4e2fee845a
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: syft
+      image: index.docker.io/paketobuildpacks/syft:1.34.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

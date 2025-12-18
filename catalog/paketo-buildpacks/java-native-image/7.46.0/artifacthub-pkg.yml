@@ -1,0 +1,33 @@
+version: 7.46.0
+name: java-native-image
+alternativeName: ""
+category: ""
+displayName: java-native-image
+createdAt: "2023-03-01T15:40:26Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:b0286737e63cc522911f4969d615b9423b4adfcc0d45e4990d268116b95d227d
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: java-native-image
+      image: index.docker.io/paketobuildpacks/java-native-image:7.46.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

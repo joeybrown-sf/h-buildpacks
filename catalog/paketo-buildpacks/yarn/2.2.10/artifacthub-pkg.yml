@@ -1,0 +1,33 @@
+version: 2.2.10
+name: yarn
+alternativeName: ""
+category: ""
+displayName: yarn
+createdAt: "2025-11-19T05:20:54Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:60636065be2dc875156cc9c69ff831070c4698815ed480c7c94fc1c9fdd406eb
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: yarn
+      image: index.docker.io/paketobuildpacks/yarn:2.2.10
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

@@ -1,0 +1,33 @@
+version: 1.0.12
+name: dotnet-execute
+alternativeName: ""
+category: ""
+displayName: dotnet-execute
+createdAt: "2025-05-07T05:05:44Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:0de7dc5372699161bac4a7d821348aa8ff0138cf4cd86d5c360921b6d0a9e884
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: dotnet-execute
+      image: index.docker.io/paketobuildpacks/dotnet-execute:1.0.12
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

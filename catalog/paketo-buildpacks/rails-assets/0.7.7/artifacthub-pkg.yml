@@ -1,0 +1,33 @@
+version: 0.7.7
+name: rails-assets
+alternativeName: ""
+category: ""
+displayName: rails-assets
+createdAt: "2022-10-19T18:23:31Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:99af1788b3090866fd74c8534bc1b87c2ecfa4d5c2b3ea5179eebd5c6e375b77
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: rails-assets
+      image: index.docker.io/paketobuildpacks/rails-assets:0.7.7
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

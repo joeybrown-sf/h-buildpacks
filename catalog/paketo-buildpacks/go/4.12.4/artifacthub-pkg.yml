@@ -1,0 +1,33 @@
+version: 4.12.4
+name: go
+alternativeName: ""
+category: ""
+displayName: go
+createdAt: "2024-11-15T05:27:17Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:58f9aab697bd59de9eda37b9b433abd7bf1f640c6b9e4c77eb78b5deb94854ff
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: go
+      image: index.docker.io/paketobuildpacks/go:4.12.4
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

@@ -1,0 +1,33 @@
+version: 4.12.0
+name: leiningen
+alternativeName: ""
+category: ""
+displayName: leiningen
+createdAt: "2025-03-17T23:42:35Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:5bf86920f755a7f838cb77c0eec891763b159c4b3f7a9912c084aa3904239483
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: leiningen
+      image: index.docker.io/paketobuildpacks/leiningen:4.12.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

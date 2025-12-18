@@ -1,0 +1,33 @@
+version: 20.2.0
+name: java
+alternativeName: ""
+category: ""
+displayName: java
+createdAt: "2025-11-07T20:09:04Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:3f57fd97e6b34a6242401f72b41e5b73f97a55ad7e133f9051aa853b7a530485
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: java
+      image: index.docker.io/paketobuildpacks/java:20.2.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

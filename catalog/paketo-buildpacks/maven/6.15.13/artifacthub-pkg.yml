@@ -1,0 +1,33 @@
+version: 6.15.13
+name: maven
+alternativeName: ""
+category: ""
+displayName: maven
+createdAt: "2024-02-23T17:22:19Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:b52c51839b95fe26d2a95fe490733d6c9d6f76ac89c90f60bdd5e1d161a863aa
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: maven
+      image: index.docker.io/paketobuildpacks/maven:6.15.13
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

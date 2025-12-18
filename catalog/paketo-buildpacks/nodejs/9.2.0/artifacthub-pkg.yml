@@ -1,0 +1,33 @@
+version: 9.2.0
+name: nodejs
+alternativeName: ""
+category: ""
+displayName: nodejs
+createdAt: "2025-07-28T16:14:29Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:d9911b575ba7f4a8523452bd01dc6b069704243f6b5dec0a5906e320d62caa0d
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: nodejs
+      image: index.docker.io/paketobuildpacks/nodejs:9.2.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

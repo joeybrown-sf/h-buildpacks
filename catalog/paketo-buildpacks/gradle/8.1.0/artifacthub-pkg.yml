@@ -1,0 +1,33 @@
+version: 8.1.0
+name: gradle
+alternativeName: ""
+category: ""
+displayName: gradle
+createdAt: "2025-10-30T12:36:42Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:8fe5b4fd2db6a96a20a6d103f89b1e6c66f0303e93a0d5f71927fbff2a8909d8
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: gradle
+      image: index.docker.io/paketobuildpacks/gradle:8.1.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

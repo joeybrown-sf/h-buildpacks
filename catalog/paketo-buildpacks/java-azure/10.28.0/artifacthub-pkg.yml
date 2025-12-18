@@ -1,0 +1,33 @@
+version: 10.28.0
+name: java-azure
+alternativeName: ""
+category: ""
+displayName: java-azure
+createdAt: "2024-01-05T16:29:42Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:492e5b31168e767ec4182f2ed37adfd6c5134c319a343abf513c4102d3f3ac06
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: java-azure
+      image: index.docker.io/paketobuildpacks/java-azure:10.28.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

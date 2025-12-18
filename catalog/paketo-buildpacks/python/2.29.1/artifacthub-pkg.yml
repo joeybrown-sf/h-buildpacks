@@ -1,0 +1,33 @@
+version: 2.29.1
+name: python
+alternativeName: ""
+category: ""
+displayName: python
+createdAt: "2025-07-18T05:26:46Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:88a2d6197cda786859465297513fd05541c7cb74ce98f087d2470d15d9470146
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: python
+      image: index.docker.io/paketobuildpacks/python:2.29.1
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

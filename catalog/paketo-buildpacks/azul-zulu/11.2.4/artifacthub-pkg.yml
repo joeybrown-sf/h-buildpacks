@@ -1,0 +1,33 @@
+version: 11.2.4
+name: azul-zulu
+alternativeName: ""
+category: ""
+displayName: azul-zulu
+createdAt: "2025-08-23T02:16:05Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:6d6638c65a693c4b1b40194dae60226436eed9505a49a7db9bc14e665bea5821
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: azul-zulu
+      image: index.docker.io/paketobuildpacks/azul-zulu:11.2.4
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

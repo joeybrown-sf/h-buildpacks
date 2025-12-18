@@ -1,0 +1,33 @@
+version: 17.2.0
+name: java
+alternativeName: ""
+category: ""
+displayName: java
+createdAt: "2024-11-15T13:17:24Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:8e334f314d85e8fe4027ec7b1b866e3f2b15b80fe3542c268c6329567f8560ea
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: java
+      image: index.docker.io/paketobuildpacks/java:17.2.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

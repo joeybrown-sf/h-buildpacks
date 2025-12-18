@@ -1,0 +1,33 @@
+version: 5.2.0
+name: aternity
+alternativeName: ""
+category: ""
+displayName: aternity
+createdAt: "2022-12-07T04:15:31Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:3ecae6ee95e06357c805799cb2f01f5822411d2cb64172b4ee16c910cce4b0ce
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: aternity
+      image: index.docker.io/paketobuildpacks/aternity:5.2.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

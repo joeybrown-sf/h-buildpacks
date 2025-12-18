@@ -1,0 +1,33 @@
+version: 0.47.0
+name: ruby
+alternativeName: ""
+category: ""
+displayName: ruby
+createdAt: "2024-07-01T14:58:44Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:080f4cfa5c8fe43837b2b83f69ae16e320ea67c051173e4934a015590b2ca67a
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: ruby
+      image: index.docker.io/paketobuildpacks/ruby:0.47.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

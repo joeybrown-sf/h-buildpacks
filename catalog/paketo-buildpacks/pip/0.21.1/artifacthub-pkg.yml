@@ -1,0 +1,33 @@
+version: 0.21.1
+name: pip
+alternativeName: ""
+category: ""
+displayName: pip
+createdAt: "2024-06-19T05:29:46Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:cda7f87f4a465fd98290b477e3a30c02596e9ce181e47c0904aa3e1ad34c3f6b
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: pip
+      image: index.docker.io/paketobuildpacks/pip:0.21.1
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

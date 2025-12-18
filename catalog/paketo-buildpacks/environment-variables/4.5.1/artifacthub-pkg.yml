@@ -1,0 +1,33 @@
+version: 4.5.1
+name: environment-variables
+alternativeName: ""
+category: ""
+displayName: environment-variables
+createdAt: "2023-04-11T14:00:17Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:a14683ac8b918f3af27bc92ff2248bcb26a0e9b47d9729bfcf5f1ef17367730c
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: environment-variables
+      image: index.docker.io/paketobuildpacks/environment-variables:4.5.1
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

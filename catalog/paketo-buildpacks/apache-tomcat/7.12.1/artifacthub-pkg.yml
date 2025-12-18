@@ -1,0 +1,33 @@
+version: 7.12.1
+name: apache-tomcat
+alternativeName: ""
+category: ""
+displayName: apache-tomcat
+createdAt: "2023-03-09T11:03:34Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:ce341e41745195b8e2f8661eb82e7ca3aabbd24fc22bbad9606586b68fbb179e
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: apache-tomcat
+      image: index.docker.io/paketobuildpacks/apache-tomcat:7.12.1
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

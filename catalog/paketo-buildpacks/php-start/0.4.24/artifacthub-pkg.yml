@@ -1,0 +1,33 @@
+version: 0.4.24
+name: php-start
+alternativeName: ""
+category: ""
+displayName: php-start
+createdAt: "2024-01-19T20:39:48Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:13d8c282b06159ba2c4c0967bf04cf635e62f7ce1ee368c3279d3608da0a31a4
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: php-start
+      image: index.docker.io/paketobuildpacks/php-start:0.4.24
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

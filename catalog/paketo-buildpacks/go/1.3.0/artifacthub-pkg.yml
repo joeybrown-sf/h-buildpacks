@@ -1,0 +1,33 @@
+version: 1.3.0
+name: go
+alternativeName: ""
+category: ""
+displayName: go
+createdAt: "2022-04-13T15:25:45Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:23a4374cc66cced4ceb4e5bfcccdad19b97c7768083a654160cb9ba6745c5e1a
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: go
+      image: index.docker.io/paketobuildpacks/go:1.3.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

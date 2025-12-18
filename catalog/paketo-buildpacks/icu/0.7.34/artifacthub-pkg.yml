@@ -1,0 +1,33 @@
+version: 0.7.34
+name: icu
+alternativeName: ""
+category: ""
+displayName: icu
+createdAt: "2025-01-22T05:11:24Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:aca0816d058a8ce231cc70d5a3c74d84d18268f295c69d587aa2400c6f24f3da
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: icu
+      image: index.docker.io/paketobuildpacks/icu:0.7.34
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

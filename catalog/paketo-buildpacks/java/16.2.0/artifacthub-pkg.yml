@@ -1,0 +1,33 @@
+version: 16.2.0
+name: java
+alternativeName: ""
+category: ""
+displayName: java
+createdAt: "2024-10-25T19:45:47Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:63f6dce0b53c755e024d3156863d92d9623711c79658d0e4b78145e67fd9103b
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: java
+      image: index.docker.io/paketobuildpacks/java:16.2.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

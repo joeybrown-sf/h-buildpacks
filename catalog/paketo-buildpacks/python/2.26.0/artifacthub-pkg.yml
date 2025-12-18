@@ -1,0 +1,33 @@
+version: 2.26.0
+name: python
+alternativeName: ""
+category: ""
+displayName: python
+createdAt: "2025-04-18T05:24:18Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:7738af1c279c59e35b46aa4d2f276ac0bc81b252778f28c9b3473a89c7656bfb
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: python
+      image: index.docker.io/paketobuildpacks/python:2.26.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

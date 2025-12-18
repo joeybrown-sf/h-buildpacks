@@ -1,0 +1,33 @@
+version: 2.23.8
+name: python
+alternativeName: ""
+category: ""
+displayName: python
+createdAt: "2025-02-14T05:32:45Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:30f8d1c483b7a954a95ce6db02510e4cdf4c8a08eb4434e40b1f58d0b8a9a708
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: python
+      image: index.docker.io/paketobuildpacks/python:2.23.8
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

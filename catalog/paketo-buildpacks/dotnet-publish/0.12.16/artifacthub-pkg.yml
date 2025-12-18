@@ -1,0 +1,33 @@
+version: 0.12.16
+name: dotnet-publish
+alternativeName: ""
+category: ""
+displayName: dotnet-publish
+createdAt: "2023-07-20T14:31:38Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:5c60b1bba3b6f0ad2c1277eb11c7be70f8edaa8dff6531b4f31b67f04a7910e0
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: dotnet-publish
+      image: index.docker.io/paketobuildpacks/dotnet-publish:0.12.16
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

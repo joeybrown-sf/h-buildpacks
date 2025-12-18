@@ -1,0 +1,33 @@
+version: 0.8.1
+name: dotnet-execute
+alternativeName: ""
+category: ""
+displayName: dotnet-execute
+createdAt: "2022-03-18T17:55:04Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:9aea313267641e21f4c7f08bf221f52c046a803d7dc07481ad31a0da0f9afe65
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: dotnet-execute
+      image: index.docker.io/paketobuildpacks/dotnet-execute:0.8.1
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

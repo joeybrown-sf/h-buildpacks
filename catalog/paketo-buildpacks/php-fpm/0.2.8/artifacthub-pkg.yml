@@ -1,0 +1,33 @@
+version: 0.2.8
+name: php-fpm
+alternativeName: ""
+category: ""
+displayName: php-fpm
+createdAt: "2023-04-14T10:42:01Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:ec9030e90ca07e5c899ae3004d16909ea0fa7093bbf5aaac5022206fbb87ddf8
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: php-fpm
+      image: index.docker.io/paketobuildpacks/php-fpm:0.2.8
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

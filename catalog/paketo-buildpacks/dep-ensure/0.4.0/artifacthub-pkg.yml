@@ -1,0 +1,33 @@
+version: 0.4.0
+name: dep-ensure
+alternativeName: ""
+category: ""
+displayName: dep-ensure
+createdAt: "2022-07-27T15:52:44Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:805c4a5d0df7a9f8810a6584e2df994edde669dc994af27fa864dd1700399b77
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: dep-ensure
+      image: index.docker.io/paketobuildpacks/dep-ensure:0.4.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

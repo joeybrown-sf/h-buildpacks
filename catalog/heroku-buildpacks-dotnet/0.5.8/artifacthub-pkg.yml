@@ -1,0 +1,33 @@
+version: 0.5.8
+name: dotnet
+alternativeName: ""
+category: ""
+displayName: dotnet
+createdAt: "2025-07-18T19:41:45Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:3b6f824c7c8512fa0daf582d8259b1bbd3f858fc5282026e258c4d84b1e47e17
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: buildpack-dotnet
+      image: index.docker.io/heroku/buildpack-dotnet:0.5.8
+      whitelisted: true
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

@@ -1,0 +1,33 @@
+version: 0.28.0
+name: ruby
+alternativeName: ""
+category: ""
+displayName: ruby
+createdAt: "2023-02-22T19:56:42Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:9018985a8b2560835dc7e2886cce6d035b1d99cd54917699b0c000837aa64a22
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: ruby
+      image: index.docker.io/paketobuildpacks/ruby:0.28.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

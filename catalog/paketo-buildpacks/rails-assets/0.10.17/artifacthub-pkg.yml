@@ -1,0 +1,33 @@
+version: 0.10.17
+name: rails-assets
+alternativeName: ""
+category: ""
+displayName: rails-assets
+createdAt: "2024-07-17T05:34:19Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:bd5846c304af88f5428d025d0acda8a56bb851372c256f967e0c81b5452507c0
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: rails-assets
+      image: index.docker.io/paketobuildpacks/rails-assets:0.10.17
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

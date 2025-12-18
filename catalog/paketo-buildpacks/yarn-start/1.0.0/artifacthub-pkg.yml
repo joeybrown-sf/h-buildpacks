@@ -1,0 +1,33 @@
+version: 1.0.0
+name: yarn-start
+alternativeName: ""
+category: ""
+displayName: yarn-start
+createdAt: "2023-01-18T23:53:27Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:7a0a9b0f647047eb1c681d40dc5c8609423947976835078f08c6f106d014369c
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: yarn-start
+      image: index.docker.io/paketobuildpacks/yarn-start:1.0.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

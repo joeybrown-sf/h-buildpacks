@@ -1,0 +1,33 @@
+version: 10.3.0
+name: java
+alternativeName: ""
+category: ""
+displayName: java
+createdAt: "2023-10-27T01:04:52Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:32220bbcb46efacffa00bcb858d64dfd473ad0f88a334729721eaad23537e617
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: java
+      image: index.docker.io/paketobuildpacks/java:10.3.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

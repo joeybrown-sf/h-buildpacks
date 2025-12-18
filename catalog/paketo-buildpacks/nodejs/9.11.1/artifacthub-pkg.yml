@@ -1,0 +1,33 @@
+version: 9.11.1
+name: nodejs
+alternativeName: ""
+category: ""
+displayName: nodejs
+createdAt: "2025-10-24T05:13:24Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:efc4ff697b4254a6dba52c1a6aaf7e77634f6a01f8374473abb753064e4555b8
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: nodejs
+      image: index.docker.io/paketobuildpacks/nodejs:9.11.1
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

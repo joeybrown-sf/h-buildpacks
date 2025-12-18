@@ -1,0 +1,33 @@
+version: 0.14.9
+name: passenger
+alternativeName: ""
+category: ""
+displayName: passenger
+createdAt: "2024-07-24T05:19:18Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:59a1f92c689cb9043bf06336ad22bfd8d98df11ecf11403375cb69c217745075
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: passenger
+      image: index.docker.io/paketobuildpacks/passenger:0.14.9
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

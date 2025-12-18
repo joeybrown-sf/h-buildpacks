@@ -1,0 +1,33 @@
+version: 3.1.1
+name: watchexec
+alternativeName: ""
+category: ""
+displayName: watchexec
+createdAt: "2024-05-01T12:57:52Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:ba419071763c76162c6a798bb4b0aec3b0d3a5ecc09a84bd402c6d691f43c7b1
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: watchexec
+      image: index.docker.io/paketobuildpacks/watchexec:3.1.1
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

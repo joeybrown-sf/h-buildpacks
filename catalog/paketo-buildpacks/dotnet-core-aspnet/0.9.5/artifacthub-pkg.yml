@@ -1,0 +1,33 @@
+version: 0.9.5
+name: dotnet-core-aspnet
+alternativeName: ""
+category: ""
+displayName: dotnet-core-aspnet
+createdAt: "2022-09-13T20:59:28Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:11cb9f232e1b0221ce88623a5f1c5b93723e72698cdd66a2d78a70ef91c4a3d7
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: dotnet-core-aspnet
+      image: index.docker.io/paketobuildpacks/dotnet-core-aspnet:0.9.5
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

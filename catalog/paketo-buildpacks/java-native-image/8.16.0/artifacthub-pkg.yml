@@ -1,0 +1,33 @@
+version: 8.16.0
+name: java-native-image
+alternativeName: ""
+category: ""
+displayName: java-native-image
+createdAt: "2023-08-18T12:30:44Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:82fa85d1843abee9e54730b53bb6d24cd9e7998960f416fdf09fcceede828fe5
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: java-native-image
+      image: index.docker.io/paketobuildpacks/java-native-image:8.16.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

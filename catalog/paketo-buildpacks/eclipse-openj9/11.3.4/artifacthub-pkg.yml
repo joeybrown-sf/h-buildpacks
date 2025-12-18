@@ -1,0 +1,33 @@
+version: 11.3.4
+name: eclipse-openj9
+alternativeName: ""
+category: ""
+displayName: eclipse-openj9
+createdAt: "2025-11-25T18:58:03Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:15258751b228d9fc556ba1b4dc962240d521b4db6cdc66d458053aa80902ba07
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: eclipse-openj9
+      image: index.docker.io/paketobuildpacks/eclipse-openj9:11.3.4
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

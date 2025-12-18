@@ -1,0 +1,33 @@
+version: 5.14.1
+name: native-image
+alternativeName: ""
+category: ""
+displayName: native-image
+createdAt: "2024-06-21T01:53:22Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:217fe984d1425e4abb50db773af4c41436af069c117a9472a4f04731748c2016
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: native-image
+      image: index.docker.io/paketobuildpacks/native-image:5.14.1
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

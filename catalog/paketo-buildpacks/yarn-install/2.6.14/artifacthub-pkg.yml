@@ -1,0 +1,33 @@
+version: 2.6.14
+name: yarn-install
+alternativeName: ""
+category: ""
+displayName: yarn-install
+createdAt: "2025-12-17T05:28:53Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:1f04cb4497d6fdce36078e397e0f56336d1b65127ef0be8936b17739bc5c7347
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: yarn-install
+      image: index.docker.io/paketobuildpacks/yarn-install:2.6.14
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

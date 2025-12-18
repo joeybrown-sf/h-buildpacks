@@ -1,0 +1,33 @@
+version: 9.8.2
+name: eclipse-openj9
+alternativeName: ""
+category: ""
+displayName: eclipse-openj9
+createdAt: "2022-12-07T04:20:50Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:2e130989b5e6c8cc868bfba567bb4c3dcb5b4034cc71904c4cf16e3956fb00b8
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: eclipse-openj9
+      image: index.docker.io/paketobuildpacks/eclipse-openj9:9.8.2
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

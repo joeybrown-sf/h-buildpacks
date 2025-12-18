@@ -1,0 +1,33 @@
+version: 8.1.6
+name: apache-tomcat
+alternativeName: ""
+category: ""
+displayName: apache-tomcat
+createdAt: "2024-08-23T19:38:14Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:b07c184a8b8c3145dc075b7acc1f95a6bd9187a9a06842b398040e23057cca04
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: apache-tomcat
+      image: index.docker.io/paketobuildpacks/apache-tomcat:8.1.6
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

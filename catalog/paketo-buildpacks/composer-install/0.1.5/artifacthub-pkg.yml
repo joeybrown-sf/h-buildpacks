@@ -1,0 +1,33 @@
+version: 0.1.5
+name: composer-install
+alternativeName: ""
+category: ""
+displayName: composer-install
+createdAt: "2022-10-06T14:46:37Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:a767cdca602f5e2bf60a8a8fc6bf373676be3e069a6d5a856eaca0915bf69700
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: composer-install
+      image: index.docker.io/paketobuildpacks/composer-install:0.1.5
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

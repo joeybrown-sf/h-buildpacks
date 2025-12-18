@@ -1,0 +1,33 @@
+version: 0.6.1
+name: node-start
+alternativeName: ""
+category: ""
+displayName: node-start
+createdAt: "2021-12-08T16:03:15Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:c3a4f113673a01fface2d6efe39c49bc7537a401ecf5aff276b9ec7bb05a3579
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: node-start
+      image: index.docker.io/paketobuildpacks/node-start:0.6.1
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

@@ -1,0 +1,33 @@
+version: 8.2.5
+name: amazon-corretto
+alternativeName: ""
+category: ""
+displayName: amazon-corretto
+createdAt: "2023-11-22T20:37:15Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:49b0a8037fa7dcfc1f0ec4155b1719e00126c8203c85c37604f5b270cf44c298
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: amazon-corretto
+      image: index.docker.io/paketobuildpacks/amazon-corretto:8.2.5
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

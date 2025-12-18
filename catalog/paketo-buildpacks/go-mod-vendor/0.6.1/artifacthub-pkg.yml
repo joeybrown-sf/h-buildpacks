@@ -1,0 +1,33 @@
+version: 0.6.1
+name: go-mod-vendor
+alternativeName: ""
+category: ""
+displayName: go-mod-vendor
+createdAt: "2022-06-06T15:15:08Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:91db53fa4658cfb1c913732c9f4d5c8508c1895a81cee54b1d1323327fe58e42
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: go-mod-vendor
+      image: index.docker.io/paketobuildpacks/go-mod-vendor:0.6.1
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

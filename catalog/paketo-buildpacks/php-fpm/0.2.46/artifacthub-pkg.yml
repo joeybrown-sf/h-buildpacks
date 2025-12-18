@@ -1,0 +1,33 @@
+version: 0.2.46
+name: php-fpm
+alternativeName: ""
+category: ""
+displayName: php-fpm
+createdAt: "2025-01-29T05:29:22Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:53c39ee2db1395d4bb37979ec68393b3c9677083b3db0678777a80894bee5a1d
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: php-fpm
+      image: index.docker.io/paketobuildpacks/php-fpm:0.2.46
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

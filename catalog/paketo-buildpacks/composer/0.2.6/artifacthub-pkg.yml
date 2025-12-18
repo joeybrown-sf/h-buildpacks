@@ -1,0 +1,33 @@
+version: 0.2.6
+name: composer
+alternativeName: ""
+category: ""
+displayName: composer
+createdAt: "2022-11-16T15:43:09Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:bead94d465b97d29c4637c95f5aeceba8c6716c688afedea85b034cd66258af0
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: composer
+      image: index.docker.io/paketobuildpacks/composer:0.2.6
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

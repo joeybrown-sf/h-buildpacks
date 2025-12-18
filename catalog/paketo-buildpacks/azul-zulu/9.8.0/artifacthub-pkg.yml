@@ -1,0 +1,33 @@
+version: 9.8.0
+name: azul-zulu
+alternativeName: ""
+category: ""
+displayName: azul-zulu
+createdAt: "2023-02-02T21:52:29Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:47635e1c24f9fb9e29afba47a2b83254374f904469dc7c302067c942d1e67bb6
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: azul-zulu
+      image: index.docker.io/paketobuildpacks/azul-zulu:9.8.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

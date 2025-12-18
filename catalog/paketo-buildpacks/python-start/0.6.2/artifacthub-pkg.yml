@@ -1,0 +1,33 @@
+version: 0.6.2
+name: python-start
+alternativeName: ""
+category: ""
+displayName: python-start
+createdAt: "2021-09-07T15:24:31Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:e23de464f5d10e367b9b2f33157972fc75159d64aadcbf12bd283d4f6cadff81
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: python-start
+      image: index.docker.io/paketobuildpacks/python-start:0.6.2
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

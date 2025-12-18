@@ -1,0 +1,33 @@
+version: 6.11.2
+name: executable-jar
+alternativeName: ""
+category: ""
+displayName: executable-jar
+createdAt: "2024-09-18T20:22:03Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:24c1baabf848ea34dbea7af26e553d60b9c12f480db5b812c6e61054777cc62a
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: executable-jar
+      image: index.docker.io/paketobuildpacks/executable-jar:6.11.2
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

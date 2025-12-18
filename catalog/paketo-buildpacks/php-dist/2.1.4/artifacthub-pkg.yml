@@ -1,0 +1,33 @@
+version: 2.1.4
+name: php-dist
+alternativeName: ""
+category: ""
+displayName: php-dist
+createdAt: "2023-05-11T16:01:29Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:100fb8060f7c79721d0596cdd237b0ea2b810720c22c3b9336434a303d8518a4
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: php-dist
+      image: index.docker.io/paketobuildpacks/php-dist:2.1.4
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

@@ -1,0 +1,33 @@
+version: 5.6.10
+name: dist-zip
+alternativeName: ""
+category: ""
+displayName: dist-zip
+createdAt: "2024-03-26T02:27:57Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:314315fb01c632ca46540e81146b09431b7a95638d28b49a5b263133b6b6ae16
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: dist-zip
+      image: index.docker.io/paketobuildpacks/dist-zip:5.6.10
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

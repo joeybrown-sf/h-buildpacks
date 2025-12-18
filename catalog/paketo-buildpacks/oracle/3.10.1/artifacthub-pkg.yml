@@ -1,0 +1,33 @@
+version: 3.10.1
+name: oracle
+alternativeName: ""
+category: ""
+displayName: oracle
+createdAt: "2023-09-28T15:29:01Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:fa3674e2053479e8eba40cd1508fc009eac9def4ab3bc4f3ae53c36fa9edc8bf
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: oracle
+      image: index.docker.io/paketobuildpacks/oracle:3.10.1
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

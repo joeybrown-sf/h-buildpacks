@@ -1,0 +1,33 @@
+version: 0.4.7
+name: unicorn
+alternativeName: ""
+category: ""
+displayName: unicorn
+createdAt: "2022-10-19T18:18:13Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:3c44474fd8c2e5b0a4cef2e5881a8115f1abab933451a3de2ac68c2bfe4e4a4d
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: unicorn
+      image: index.docker.io/paketobuildpacks/unicorn:0.4.7
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

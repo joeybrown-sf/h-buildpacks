@@ -1,0 +1,33 @@
+version: 5.5.0
+name: new-relic
+alternativeName: ""
+category: ""
+displayName: new-relic
+createdAt: "2023-01-19T14:37:28Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:cd67587e814c672e9fe36ca9b575502e16afd0d3569fedf4f6258d51a36cef3d
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: new-relic
+      image: index.docker.io/paketobuildpacks/new-relic:5.5.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

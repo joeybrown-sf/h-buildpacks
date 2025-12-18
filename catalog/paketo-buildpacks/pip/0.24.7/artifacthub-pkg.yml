@@ -1,0 +1,33 @@
+version: 0.24.7
+name: pip
+alternativeName: ""
+category: ""
+displayName: pip
+createdAt: "2025-11-05T05:16:02Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:123567b16297c7a1cf3d30b57859e17da4d18f8fd472f3bbdce206a9e03d29a9
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: pip
+      image: index.docker.io/paketobuildpacks/pip:0.24.7
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

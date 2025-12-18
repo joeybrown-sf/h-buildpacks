@@ -1,0 +1,33 @@
+version: 6.1.7
+name: yourkit
+alternativeName: ""
+category: ""
+displayName: yourkit
+createdAt: "2024-01-15T15:16:35Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:274cd594fefa72e1a5df6465697305438811764d55384f5ae28b9bb072ee204a
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: yourkit
+      image: index.docker.io/paketobuildpacks/yourkit:6.1.7
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

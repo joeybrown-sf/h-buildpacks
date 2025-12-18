@@ -1,0 +1,33 @@
+version: 5.16.1
+name: azure-application-insights
+alternativeName: ""
+category: ""
+displayName: azure-application-insights
+createdAt: "2023-10-02T16:33:34Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:027742b2d9d5409793dc282d3f5374eda9cb903d9885e50b0f5ff8b8878186de
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: azure-application-insights
+      image: index.docker.io/paketobuildpacks/azure-application-insights:5.16.1
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

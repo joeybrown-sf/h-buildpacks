@@ -1,0 +1,33 @@
+version: 2.14.3
+name: clojure-tools
+alternativeName: ""
+category: ""
+displayName: clojure-tools
+createdAt: "2025-01-28T12:49:10Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:acfe5b212dc7e05e189cc397013dc80bd0f1689e851fac48f1018c05c6d2e9ca
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: clojure-tools
+      image: index.docker.io/paketobuildpacks/clojure-tools:2.14.3
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

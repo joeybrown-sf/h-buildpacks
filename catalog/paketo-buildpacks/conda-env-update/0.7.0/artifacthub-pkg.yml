@@ -1,0 +1,33 @@
+version: 0.7.0
+name: conda-env-update
+alternativeName: ""
+category: ""
+displayName: conda-env-update
+createdAt: "2022-10-27T13:19:44Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:ad6fa8448b0c4dbc7eb769a4fc85bdf692ce7696bae11c21721766bf1cf4f4a5
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: conda-env-update
+      image: index.docker.io/paketobuildpacks/conda-env-update:0.7.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

@@ -1,0 +1,33 @@
+version: 6.20.3
+name: maven
+alternativeName: ""
+category: ""
+displayName: maven
+createdAt: "2025-06-26T13:54:15Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:869205ff8d9b280251688eef4f07d777d948c2d3e92b2f58706556ca7b57c9fc
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: maven
+      image: index.docker.io/paketobuildpacks/maven:6.20.3
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

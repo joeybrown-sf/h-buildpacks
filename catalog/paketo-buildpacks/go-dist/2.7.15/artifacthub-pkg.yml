@@ -1,0 +1,33 @@
+version: 2.7.15
+name: go-dist
+alternativeName: ""
+category: ""
+displayName: go-dist
+createdAt: "2025-08-13T05:21:22Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:bd2d90bf0c76ca59f4ea54f121e50cc1ecdc759f2583460669079cb038e2b371
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: go-dist
+      image: index.docker.io/paketobuildpacks/go-dist:2.7.15
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

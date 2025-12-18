@@ -1,0 +1,33 @@
+version: 2.16.0
+name: syft
+alternativeName: ""
+category: ""
+displayName: syft
+createdAt: "2025-06-10T17:43:15Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:661206bacd16d020e24b054bc6d7afa5e279275c05a9e0537ba061468607b3e1
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: syft
+      image: index.docker.io/paketobuildpacks/syft:2.16.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

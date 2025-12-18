@@ -1,0 +1,33 @@
+version: 10.1.14
+name: eclipse-openj9
+alternativeName: ""
+category: ""
+displayName: eclipse-openj9
+createdAt: "2024-02-08T14:15:55Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:d724a51e9520270d0b2e7ad6ad45d2c13b7c0cac93960576dbb3e2168cccf93f
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: eclipse-openj9
+      image: index.docker.io/paketobuildpacks/eclipse-openj9:10.1.14
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

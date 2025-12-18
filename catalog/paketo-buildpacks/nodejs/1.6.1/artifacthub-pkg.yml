@@ -1,0 +1,33 @@
+version: 1.6.1
+name: nodejs
+alternativeName: ""
+category: ""
+displayName: nodejs
+createdAt: "2023-05-08T04:48:25Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:2cfc33b1ed804db4c9c59aeb8c6435379e4117c66d8c1bf088502a38cfa9e726
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: nodejs
+      image: index.docker.io/paketobuildpacks/nodejs:1.6.1
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

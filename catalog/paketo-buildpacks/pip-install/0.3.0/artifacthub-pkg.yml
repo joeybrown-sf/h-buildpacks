@@ -1,0 +1,33 @@
+version: 0.3.0
+name: pip-install
+alternativeName: ""
+category: ""
+displayName: pip-install
+createdAt: "2022-03-03T21:05:49Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:8f417173ca83d3acb22d68c3725beff0c47d2e66dbaf0316cfe86ec2ccdc4cdb
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: pip-install
+      image: index.docker.io/paketobuildpacks/pip-install:0.3.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

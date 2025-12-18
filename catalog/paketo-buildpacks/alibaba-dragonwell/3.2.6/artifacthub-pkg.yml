@@ -1,0 +1,33 @@
+version: 3.2.6
+name: alibaba-dragonwell
+alternativeName: ""
+category: ""
+displayName: alibaba-dragonwell
+createdAt: "2024-09-03T12:19:33Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:855971328474cee39ba8a44d2d2cfe4efa2ea9f3f4d3a7fc0181fd78bba9fef7
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: alibaba-dragonwell
+      image: index.docker.io/paketobuildpacks/alibaba-dragonwell:3.2.6
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

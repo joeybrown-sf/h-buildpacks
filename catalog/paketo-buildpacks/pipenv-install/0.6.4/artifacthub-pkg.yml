@@ -1,0 +1,33 @@
+version: 0.6.4
+name: pipenv-install
+alternativeName: ""
+category: ""
+displayName: pipenv-install
+createdAt: "2022-10-13T16:26:06Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:a7635009dacbcf4b4394b011af60103b268d4fe24204affe84d44f4c6cf2dffb
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: pipenv-install
+      image: index.docker.io/paketobuildpacks/pipenv-install:0.6.4
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

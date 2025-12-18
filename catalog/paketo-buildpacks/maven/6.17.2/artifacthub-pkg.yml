@@ -1,0 +1,33 @@
+version: 6.17.2
+name: maven
+alternativeName: ""
+category: ""
+displayName: maven
+createdAt: "2024-06-18T14:02:38Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:baf6d7a9d5158e395c7095a0abdcc851fe89b22b721716b91ddefa571355a7d5
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: maven
+      image: index.docker.io/paketobuildpacks/maven:6.17.2
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

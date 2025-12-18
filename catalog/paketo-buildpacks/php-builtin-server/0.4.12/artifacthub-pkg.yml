@@ -1,0 +1,33 @@
+version: 0.4.12
+name: php-builtin-server
+alternativeName: ""
+category: ""
+displayName: php-builtin-server
+createdAt: "2023-05-31T21:09:26Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:b3476730449d4cf417ea408fbb97d8fa36214c03e15819231bf98be54cf72b10
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: php-builtin-server
+      image: index.docker.io/paketobuildpacks/php-builtin-server:0.4.12
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

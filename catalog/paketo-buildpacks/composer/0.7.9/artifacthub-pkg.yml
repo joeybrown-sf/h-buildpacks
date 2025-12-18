@@ -1,0 +1,33 @@
+version: 0.7.9
+name: composer
+alternativeName: ""
+category: ""
+displayName: composer
+createdAt: "2024-07-03T19:38:05Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:3928f0e1e55d704a46cd45f7e608ba40a1fee413d536bbb64a4c5c0e96239a4f
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: composer
+      image: index.docker.io/paketobuildpacks/composer:0.7.9
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

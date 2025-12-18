@@ -1,0 +1,33 @@
+version: 7.6.1
+name: nodejs
+alternativeName: ""
+category: ""
+displayName: nodejs
+createdAt: "2025-04-11T05:23:25Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:4705e2852d69cde327fba26cc2f3076e341c0f48e8dfe76ce06fa46b2ef9addc
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: nodejs
+      image: index.docker.io/paketobuildpacks/nodejs:7.6.1
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

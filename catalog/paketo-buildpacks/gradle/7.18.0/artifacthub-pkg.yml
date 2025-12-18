@@ -1,0 +1,33 @@
+version: 7.18.0
+name: gradle
+alternativeName: ""
+category: ""
+displayName: gradle
+createdAt: "2025-03-17T23:41:23Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:475f7ce47efdd5d29c576ee038468f366ef0fcdd4affdae3213a68576c5878b2
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: gradle
+      image: index.docker.io/paketobuildpacks/gradle:7.18.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

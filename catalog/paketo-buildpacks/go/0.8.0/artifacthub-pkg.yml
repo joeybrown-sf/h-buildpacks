@@ -1,0 +1,33 @@
+version: 0.8.0
+name: go
+alternativeName: ""
+category: ""
+displayName: go
+createdAt: "2021-06-22T18:37:36Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:a533d5b35b60da7dedcc438e44ec6792f1e76ead22fb24940fe7c7b407639750
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: go
+      image: index.docker.io/paketobuildpacks/go:0.8.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

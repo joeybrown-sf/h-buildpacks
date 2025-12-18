@@ -1,0 +1,33 @@
+version: 0.7.0
+name: php
+alternativeName: ""
+category: ""
+displayName: php
+createdAt: "2022-01-26T14:49:11Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:12511688536a4ac97bf66fc03b5bd5aeae8658e9fa6966b1489177fe95f59ed5
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: php
+      image: index.docker.io/paketobuildpacks/php:0.7.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

@@ -1,0 +1,33 @@
+version: 15.2.0
+name: java
+alternativeName: ""
+category: ""
+displayName: java
+createdAt: "2024-07-26T23:06:27Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:bdb87104cf4940569b49281e0c3fad460ac1986b6dbf3b3740007d35274ad363
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: java
+      image: index.docker.io/paketobuildpacks/java:15.2.0
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

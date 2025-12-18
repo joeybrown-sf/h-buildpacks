@@ -1,0 +1,33 @@
+version: 0.17.7
+name: nginx
+alternativeName: ""
+category: ""
+displayName: nginx
+createdAt: "2024-09-04T05:27:14Z"
+description: Description not available
+logoPath: ""
+logoURL: ""
+digest: sha256:99c7b97afa7ea0d231772340d006e9a81dae454c7159d9c43007622565ecb35a
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: nginx
+      image: index.docker.io/paketobuildpacks/nginx:0.17.7
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}
