@@ -1,0 +1,34 @@
+version: 7.0.1
+name: scala
+alternativeName: ""
+category: ""
+displayName: ""
+createdAt: ""
+description: ""
+logoPath: ""
+logoURL: ""
+digest: sha256:d5c8bb657b88809f783bf391289f902881383ce19664d932444a8cfc37f5baee
+license: ""
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: buildpack-scala
+      image: index.docker.io/heroku/buildpack-scala:7.0.1
+      whitelisted: true
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

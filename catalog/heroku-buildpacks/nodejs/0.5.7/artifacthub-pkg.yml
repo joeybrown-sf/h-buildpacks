@@ -1,0 +1,34 @@
+version: 0.5.7
+name: nodejs
+alternativeName: ""
+category: ""
+displayName: ""
+createdAt: ""
+description: ""
+logoPath: ""
+logoURL: ""
+digest: sha256:c81e7270cbc8a53e1d2e254ab8fc6d7a21b6de99d8abd8dba90531858a45afdd
+license: ""
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: buildpack-nodejs
+      image: index.docker.io/heroku/buildpack-nodejs:0.5.7
+      whitelisted: true
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

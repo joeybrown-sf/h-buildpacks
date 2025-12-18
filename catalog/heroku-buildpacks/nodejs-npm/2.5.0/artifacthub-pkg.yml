@@ -1,0 +1,34 @@
+version: 2.5.0
+name: nodejs-npm
+alternativeName: ""
+category: ""
+displayName: ""
+createdAt: ""
+description: ""
+logoPath: ""
+logoURL: ""
+digest: sha256:35c710695a61e17c67dd09e2c5b37bd69a5212a97afd3ee86a15042562330ded
+license: ""
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: buildpack-nodejs-npm
+      image: index.docker.io/heroku/buildpack-nodejs-npm:2.5.0
+      whitelisted: true
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

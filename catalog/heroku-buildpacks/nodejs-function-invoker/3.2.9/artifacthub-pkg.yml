@@ -1,0 +1,34 @@
+version: 3.2.9
+name: nodejs-function-invoker
+alternativeName: ""
+category: ""
+displayName: ""
+createdAt: ""
+description: ""
+logoPath: ""
+logoURL: ""
+digest: sha256:df609c023944b4e0fc31fc4e28dd23ae754a344d8ff932126bf3ed4fe1f6e8e2
+license: ""
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: buildpack-nodejs-function-invoker
+      image: index.docker.io/heroku/buildpack-nodejs-function-invoker:3.2.9
+      whitelisted: true
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

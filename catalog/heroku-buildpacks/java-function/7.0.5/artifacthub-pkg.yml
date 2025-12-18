@@ -1,0 +1,34 @@
+version: 7.0.5
+name: java-function
+alternativeName: ""
+category: ""
+displayName: ""
+createdAt: ""
+description: ""
+logoPath: ""
+logoURL: ""
+digest: sha256:32b8b74ee32b95b516aa7c7c4c4b9005a859e32522e32e995d4d3a83a6a88857
+license: ""
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: buildpack-java-function
+      image: index.docker.io/heroku/buildpack-java-function:7.0.5
+      whitelisted: true
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

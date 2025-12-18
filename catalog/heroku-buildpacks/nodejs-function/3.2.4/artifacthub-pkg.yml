@@ -1,0 +1,34 @@
+version: 3.2.4
+name: nodejs-function
+alternativeName: ""
+category: ""
+displayName: ""
+createdAt: ""
+description: ""
+logoPath: ""
+logoURL: ""
+digest: sha256:d72fdfc93e49f74eca8376584f01fdc1a9cbcaf35049e006aaaae412622c9f84
+license: ""
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: buildpack-nodejs-function
+      image: index.docker.io/heroku/buildpack-nodejs-function:3.2.4
+      whitelisted: true
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

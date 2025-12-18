@@ -1,0 +1,34 @@
+version: 3.2.2
+name: scala
+alternativeName: ""
+category: ""
+displayName: ""
+createdAt: ""
+description: ""
+logoPath: ""
+logoURL: ""
+digest: sha256:df96a056246c7f4f4c9091da2e56dc5ae1f5f22ad215d5cbc42cc312ec8cdcdd
+license: ""
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: buildpack-scala
+      image: index.docker.io/heroku/buildpack-scala:3.2.2
+      whitelisted: true
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

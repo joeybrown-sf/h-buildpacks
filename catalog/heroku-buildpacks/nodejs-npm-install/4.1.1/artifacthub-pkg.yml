@@ -1,0 +1,34 @@
+version: 4.1.1
+name: nodejs-npm-install
+alternativeName: ""
+category: ""
+displayName: ""
+createdAt: ""
+description: ""
+logoPath: ""
+logoURL: ""
+digest: sha256:ca97a2cfe18bf6a250146dc044cc705dd2e8e8c3b64767b3f0fc26ef6017dc18
+license: ""
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: buildpack-nodejs-npm-install
+      image: index.docker.io/heroku/buildpack-nodejs-npm-install:4.1.1
+      whitelisted: true
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

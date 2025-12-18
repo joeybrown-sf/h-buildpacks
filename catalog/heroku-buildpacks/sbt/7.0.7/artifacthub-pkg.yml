@@ -1,0 +1,34 @@
+version: 7.0.7
+name: sbt
+alternativeName: ""
+category: ""
+displayName: ""
+createdAt: ""
+description: ""
+logoPath: ""
+logoURL: ""
+digest: sha256:70e1ca488944a08410a3a4acbb1b9bc98f71e19936181cb077fb3fdcb508aaa8
+license: ""
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: buildpack-sbt
+      image: index.docker.io/heroku/buildpack-sbt:7.0.7
+      whitelisted: true
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

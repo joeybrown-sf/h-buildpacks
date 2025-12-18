@@ -1,0 +1,34 @@
+version: 3.5.0
+name: nodejs-npm-install
+alternativeName: ""
+category: ""
+displayName: ""
+createdAt: ""
+description: ""
+logoPath: ""
+logoURL: ""
+digest: sha256:d581f1480af8876ccdb4d170f4ce8b31a6d036679248f6f2f1af1269bdd40e99
+license: ""
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: buildpack-nodejs-npm-install
+      image: index.docker.io/heroku/buildpack-nodejs-npm-install:3.5.0
+      whitelisted: true
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

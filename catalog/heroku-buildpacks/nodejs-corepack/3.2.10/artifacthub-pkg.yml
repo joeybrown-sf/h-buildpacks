@@ -1,0 +1,34 @@
+version: 3.2.10
+name: nodejs-corepack
+alternativeName: ""
+category: ""
+displayName: ""
+createdAt: ""
+description: ""
+logoPath: ""
+logoURL: ""
+digest: sha256:3331ed5bb159e0a63f018f64db3e52334af6f60ca2994f91c3052369a0da3d78
+license: ""
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: buildpack-nodejs-corepack
+      image: index.docker.io/heroku/buildpack-nodejs-corepack:3.2.10
+      whitelisted: true
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

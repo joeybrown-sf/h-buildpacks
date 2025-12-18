@@ -1,0 +1,34 @@
+version: 0.0.86
+name: clojure
+alternativeName: ""
+category: ""
+displayName: ""
+createdAt: ""
+description: ""
+logoPath: ""
+logoURL: ""
+digest: sha256:726d69cc16946bb1b1d5b112b8816d9da590cc4f8c5c29344b2b0bb81d78a89b
+license: ""
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: buildpack-clojure
+      image: index.docker.io/heroku/buildpack-clojure:0.0.86
+      whitelisted: true
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

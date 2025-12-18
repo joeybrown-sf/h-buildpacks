@@ -1,0 +1,34 @@
+version: 3.4.0
+name: nodejs-pnpm-install
+alternativeName: ""
+category: ""
+displayName: ""
+createdAt: ""
+description: ""
+logoPath: ""
+logoURL: ""
+digest: sha256:789602f2f579d84c819e7bc9526856092b4e7c696f3f0cf9b1b2a2b98695d85c
+license: ""
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: buildpack-nodejs-pnpm-install
+      image: index.docker.io/heroku/buildpack-nodejs-pnpm-install:3.4.0
+      whitelisted: true
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

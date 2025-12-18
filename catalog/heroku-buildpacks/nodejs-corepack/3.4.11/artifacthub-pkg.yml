@@ -1,0 +1,34 @@
+version: 3.4.11
+name: nodejs-corepack
+alternativeName: ""
+category: ""
+displayName: ""
+createdAt: ""
+description: ""
+logoPath: ""
+logoURL: ""
+digest: sha256:9179ec1098e714ac57dd2dcfe74233cc282d20a92992f65d56fc2a56b1475900
+license: ""
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: buildpack-nodejs-corepack
+      image: index.docker.io/heroku/buildpack-nodejs-corepack:3.4.11
+      whitelisted: true
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

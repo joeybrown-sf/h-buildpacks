@@ -1,0 +1,34 @@
+version: 3.6.3
+name: nodejs-engine
+alternativeName: ""
+category: ""
+displayName: ""
+createdAt: ""
+description: ""
+logoPath: ""
+logoURL: ""
+digest: sha256:2a1af34771d5bc49a8ad405c5f4f3765cecbd02da3538b8d9abb37299b65938e
+license: ""
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: buildpack-nodejs-engine
+      image: index.docker.io/heroku/buildpack-nodejs-engine:3.6.3
+      whitelisted: true
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

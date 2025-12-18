@@ -1,0 +1,34 @@
+version: 7.0.3
+name: gradle
+alternativeName: ""
+category: ""
+displayName: ""
+createdAt: ""
+description: ""
+logoPath: ""
+logoURL: ""
+digest: sha256:c8d1e8344b848a18d6a30d519b9bcbaa59d88a46709455accefb6fb6a8afb10e
+license: ""
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: buildpack-gradle
+      image: index.docker.io/heroku/buildpack-gradle:7.0.3
+      whitelisted: true
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

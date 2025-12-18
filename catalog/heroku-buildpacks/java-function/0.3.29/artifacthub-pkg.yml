@@ -1,0 +1,34 @@
+version: 0.3.29
+name: java-function
+alternativeName: ""
+category: ""
+displayName: ""
+createdAt: ""
+description: ""
+logoPath: ""
+logoURL: ""
+digest: sha256:a27030592f648d5ef32fe9bcbfe326d435698a748b8fa17b1d43a23fea27ec51
+license: ""
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: buildpack-java-function
+      image: index.docker.io/heroku/buildpack-java-function:0.3.29
+      whitelisted: true
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

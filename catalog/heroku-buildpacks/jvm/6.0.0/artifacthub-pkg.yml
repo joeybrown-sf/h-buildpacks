@@ -1,0 +1,34 @@
+version: 6.0.0
+name: jvm
+alternativeName: ""
+category: ""
+displayName: ""
+createdAt: ""
+description: ""
+logoPath: ""
+logoURL: ""
+digest: sha256:b202b83e5d237b06bd18fca14e13f0795dd44c69cd10004e7cc4ef00f2d668e2
+license: ""
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: buildpack-jvm
+      image: index.docker.io/heroku/buildpack-jvm:6.0.0
+      whitelisted: true
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

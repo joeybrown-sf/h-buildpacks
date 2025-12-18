@@ -1,0 +1,34 @@
+version: 1.1.1
+name: nodejs-npm
+alternativeName: ""
+category: ""
+displayName: ""
+createdAt: ""
+description: ""
+logoPath: ""
+logoURL: ""
+digest: sha256:f0dc664bc33c867f5f49ddbb96c75aa82d706a1b392c5ea8ec233d836c5d6caa
+license: ""
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: buildpack-nodejs-npm
+      image: index.docker.io/heroku/buildpack-nodejs-npm:1.1.1
+      whitelisted: true
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

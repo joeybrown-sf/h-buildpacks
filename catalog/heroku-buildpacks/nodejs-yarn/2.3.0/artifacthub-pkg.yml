@@ -1,0 +1,34 @@
+version: 2.3.0
+name: nodejs-yarn
+alternativeName: ""
+category: ""
+displayName: ""
+createdAt: ""
+description: ""
+logoPath: ""
+logoURL: ""
+digest: sha256:c1b266209349da2939488fc6abd12ea3618a5a55b9161798c3c5ac587b37ca8d
+license: ""
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: buildpack-nodejs-yarn
+      image: index.docker.io/heroku/buildpack-nodejs-yarn:2.3.0
+      whitelisted: true
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

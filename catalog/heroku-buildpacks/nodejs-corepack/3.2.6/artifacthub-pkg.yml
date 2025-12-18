@@ -1,0 +1,34 @@
+version: 3.2.6
+name: nodejs-corepack
+alternativeName: ""
+category: ""
+displayName: ""
+createdAt: ""
+description: ""
+logoPath: ""
+logoURL: ""
+digest: sha256:545556d1039846fc2cc290cfd8810f97a9f4f2c61297778c800d517ec463ac14
+license: ""
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: buildpack-nodejs-corepack
+      image: index.docker.io/heroku/buildpack-nodejs-corepack:3.2.6
+      whitelisted: true
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

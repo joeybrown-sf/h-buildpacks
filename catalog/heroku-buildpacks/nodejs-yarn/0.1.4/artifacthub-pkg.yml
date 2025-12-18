@@ -1,0 +1,34 @@
+version: 0.1.4
+name: nodejs-yarn
+alternativeName: ""
+category: ""
+displayName: ""
+createdAt: ""
+description: ""
+logoPath: ""
+logoURL: ""
+digest: sha256:30f89310ecb6fc011170ca7557581e7d175c22acc8b52d5f3fb5abb09d0995af
+license: ""
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: buildpack-nodejs-yarn
+      image: index.docker.io/heroku/buildpack-nodejs-yarn:0.1.4
+      whitelisted: true
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

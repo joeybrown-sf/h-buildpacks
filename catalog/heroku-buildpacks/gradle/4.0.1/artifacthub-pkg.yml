@@ -1,0 +1,34 @@
+version: 4.0.1
+name: gradle
+alternativeName: ""
+category: ""
+displayName: ""
+createdAt: ""
+description: ""
+logoPath: ""
+logoURL: ""
+digest: sha256:070fca1576375a4c6cf6ae8bc5d29b0b6283f62075303dddecb60c2ff6f1e336
+license: ""
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: buildpack-gradle
+      image: index.docker.io/heroku/buildpack-gradle:4.0.1
+      whitelisted: true
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

@@ -1,0 +1,34 @@
+version: 0.2.0
+name: jvm-function-invoker
+alternativeName: ""
+category: ""
+displayName: ""
+createdAt: ""
+description: ""
+logoPath: ""
+logoURL: ""
+digest: sha256:09f7a8663026dac65266ebc3edabe14b59cc7aadfa92f98bb13b33d498c932cf
+license: ""
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: buildpack-jvm-function-invoker
+      image: index.docker.io/heroku/buildpack-jvm-function-invoker:0.2.0
+      whitelisted: true
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

@@ -1,0 +1,34 @@
+version: 2.0.1
+name: ruby
+alternativeName: ""
+category: ""
+displayName: ""
+createdAt: ""
+description: ""
+logoPath: ""
+logoURL: ""
+digest: sha256:fd32f123fdfa3e94eeb4ce2ad82aad353f6a3b87ac70bfebfdd30cc41927a737
+license: ""
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: buildpack-ruby
+      image: index.docker.io/heroku/buildpack-ruby:2.0.1
+      whitelisted: true
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

@@ -1,0 +1,34 @@
+version: 3.6.3
+name: nodejs-pnpm-engine
+alternativeName: ""
+category: ""
+displayName: ""
+createdAt: ""
+description: ""
+logoPath: ""
+logoURL: ""
+digest: sha256:f590cef4095bfe740885ca173658b95dc2639e2b552aff1f9ec570d359611497
+license: ""
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: buildpack-nodejs-pnpm-engine
+      image: index.docker.io/heroku/buildpack-nodejs-pnpm-engine:3.6.3
+      whitelisted: true
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

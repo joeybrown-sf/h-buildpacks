@@ -1,0 +1,34 @@
+version: 3.6.4
+name: nodejs-npm
+alternativeName: ""
+category: ""
+displayName: ""
+createdAt: ""
+description: ""
+logoPath: ""
+logoURL: ""
+digest: sha256:ee1ed6cb6586f086c445b78e4e0d7bda172775740d522bdde629e91d3ccb4d41
+license: ""
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: buildpack-nodejs-npm
+      image: index.docker.io/heroku/buildpack-nodejs-npm:3.6.4
+      whitelisted: true
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

@@ -1,0 +1,34 @@
+version: 2.6.5
+name: nodejs-pnpm-install
+alternativeName: ""
+category: ""
+displayName: ""
+createdAt: ""
+description: ""
+logoPath: ""
+logoURL: ""
+digest: sha256:8666400502520cb899b92e5d756878fb1b9339bfcfe93d5d064cc5b3419cb149
+license: ""
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: buildpack-nodejs-pnpm-install
+      image: index.docker.io/heroku/buildpack-nodejs-pnpm-install:2.6.5
+      whitelisted: true
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

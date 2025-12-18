@@ -1,0 +1,34 @@
+version: 3.0.5
+name: nodejs-npm-engine
+alternativeName: ""
+category: ""
+displayName: ""
+createdAt: ""
+description: ""
+logoPath: ""
+logoURL: ""
+digest: sha256:08900f304212ccc3b315cd878cd5e0dabde47a5a86c9786fe96c791db73ebaaf
+license: ""
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: buildpack-nodejs-npm-engine
+      image: index.docker.io/heroku/buildpack-nodejs-npm-engine:3.0.5
+      whitelisted: true
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

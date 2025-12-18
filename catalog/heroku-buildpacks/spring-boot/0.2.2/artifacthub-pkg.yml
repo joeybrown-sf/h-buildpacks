@@ -1,0 +1,34 @@
+version: 0.2.2
+name: spring-boot
+alternativeName: ""
+category: ""
+displayName: ""
+createdAt: ""
+description: ""
+logoPath: ""
+logoURL: ""
+digest: sha256:d5db24e9b2d1b2662e0712089c2934556e15d8280473d9d1bac46c3ef4c9d877
+license: ""
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: buildpacks/heroku_spring-boot
+      image: ghcr.io/heroku-examples/buildpacks/heroku_spring-boot:0.2.2
+      whitelisted: true
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

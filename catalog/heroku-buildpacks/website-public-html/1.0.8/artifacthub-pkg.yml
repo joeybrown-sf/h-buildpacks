@@ -1,0 +1,34 @@
+version: 1.0.8
+name: website-public-html
+alternativeName: ""
+category: ""
+displayName: ""
+createdAt: ""
+description: ""
+logoPath: ""
+logoURL: ""
+digest: sha256:939f94537a46fd6c17767ff8b1177e2aabf2fada6991eea590e881d81edddbff
+license: ""
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: buildpack-website-public-html
+      image: index.docker.io/heroku/buildpack-website-public-html:1.0.8
+      whitelisted: true
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

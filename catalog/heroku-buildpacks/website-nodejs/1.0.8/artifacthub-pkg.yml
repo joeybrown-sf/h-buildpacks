@@ -1,0 +1,34 @@
+version: 1.0.8
+name: website-nodejs
+alternativeName: ""
+category: ""
+displayName: ""
+createdAt: ""
+description: ""
+logoPath: ""
+logoURL: ""
+digest: sha256:fabf73db5f54d9bf552b784a4bf20fc6e6712b07ecc50708fbc4d7d0ba42638c
+license: ""
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: buildpack-website-nodejs
+      image: index.docker.io/heroku/buildpack-website-nodejs:1.0.8
+      whitelisted: true
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

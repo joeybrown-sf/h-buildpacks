@@ -1,0 +1,34 @@
+version: 1.0.7
+name: static-web-server
+alternativeName: ""
+category: ""
+displayName: ""
+createdAt: ""
+description: ""
+logoPath: ""
+logoURL: ""
+digest: sha256:32ab84a65073acc8a7d7b43f59068cb832451969abed7ba71670c9e0917cdcfb
+license: ""
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: buildpack-static-web-server
+      image: index.docker.io/heroku/buildpack-static-web-server:1.0.7
+      whitelisted: true
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

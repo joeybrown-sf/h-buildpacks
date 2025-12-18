@@ -1,0 +1,34 @@
+version: 0.1.2
+name: deb-packages
+alternativeName: ""
+category: ""
+displayName: ""
+createdAt: ""
+description: ""
+logoPath: ""
+logoURL: ""
+digest: sha256:c795dcbb359d04ae70a786feb15b18e4d3cee9a81d6a0da75ac3492b611d83dd
+license: ""
+homeURL: ""
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: buildpack-deb-packages
+      image: index.docker.io/heroku/buildpack-deb-packages:0.1.2
+      whitelisted: true
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}
