@@ -3,12 +3,11 @@ name: go
 alternativeName: ""
 category: ""
 displayName: go
-createdAt: "0001-01-01T00:00:00Z"
+createdAt: "2023-06-27T21:35:02Z"
 description: Description not available
 logoPath: ""
 logoURL: ""
 digest: sha256:d392aaca640858cde1776a907b75f477415f406e78a16634fe337c0638744bc9
-license: ""
 homeURL: ""
 appVersion: ""
 publisherID: ""

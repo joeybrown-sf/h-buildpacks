@@ -3,12 +3,11 @@ name: nodejs-npm-install
 alternativeName: ""
 category: ""
 displayName: nodejs-npm-install
-createdAt: "0001-01-01T00:00:00Z"
+createdAt: "2024-07-03T16:44:14Z"
 description: Description not available
 logoPath: ""
 logoURL: ""
 digest: sha256:a9faa691af116f995754a565595308e02051d1e9ecefdc8ea8d092c83b71ed38
-license: ""
 homeURL: ""
 appVersion: ""
 publisherID: ""

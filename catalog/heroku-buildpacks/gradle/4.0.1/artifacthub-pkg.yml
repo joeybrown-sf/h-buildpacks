@@ -3,12 +3,11 @@ name: gradle
 alternativeName: ""
 category: ""
 displayName: gradle
-createdAt: "0001-01-01T00:00:00Z"
+createdAt: "2023-12-04T17:02:16Z"
 description: Description not available
 logoPath: ""
 logoURL: ""
 digest: sha256:070fca1576375a4c6cf6ae8bc5d29b0b6283f62075303dddecb60c2ff6f1e336
-license: ""
 homeURL: ""
 appVersion: ""
 publisherID: ""

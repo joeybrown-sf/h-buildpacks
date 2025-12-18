@@ -3,12 +3,11 @@ name: jvm-function-invoker
 alternativeName: ""
 category: ""
 displayName: jvm-function-invoker
-createdAt: "0001-01-01T00:00:00Z"
+createdAt: "2021-08-25T13:31:27Z"
 description: Description not available
 logoPath: ""
 logoURL: ""
 digest: sha256:9cff361b0fdaa2abfe34fa19684b2872318801368c8740f462d7876e3e5e5755
-license: ""
 homeURL: ""
 appVersion: ""
 publisherID: ""

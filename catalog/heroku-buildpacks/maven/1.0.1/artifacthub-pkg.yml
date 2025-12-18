@@ -3,12 +3,11 @@ name: maven
 alternativeName: ""
 category: ""
 displayName: maven
-createdAt: "0001-01-01T00:00:00Z"
+createdAt: "2022-06-09T13:06:44Z"
 description: Description not available
 logoPath: ""
 logoURL: ""
 digest: sha256:e17eeb20348354547793da1dc85401a0556bda9129c476aa1f6c2216bab898a3
-license: ""
 homeURL: ""
 appVersion: ""
 publisherID: ""

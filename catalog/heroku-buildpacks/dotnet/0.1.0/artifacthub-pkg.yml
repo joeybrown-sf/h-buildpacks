@@ -3,12 +3,11 @@ name: dotnet
 alternativeName: ""
 category: ""
 displayName: dotnet
-createdAt: "0001-01-01T00:00:00Z"
+createdAt: "2024-08-15T18:33:41Z"
 description: Description not available
 logoPath: ""
 logoURL: ""
 digest: sha256:e195bcb76f6f01fb6b0ca998ba7a36cf425fba8e1ca5802c4fdd23f8e4f00712
-license: ""
 homeURL: ""
 appVersion: ""
 publisherID: ""

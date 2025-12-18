@@ -3,12 +3,11 @@ name: nodejs-pnpm-install
 alternativeName: ""
 category: ""
 displayName: nodejs-pnpm-install
-createdAt: "0001-01-01T00:00:00Z"
+createdAt: "2024-01-17T19:24:11Z"
 description: Description not available
 logoPath: ""
 logoURL: ""
 digest: sha256:e5fedbcae098c3312e19792e22789a005a58da1b2952e173194e8917fe2e2d75
-license: ""
 homeURL: ""
 appVersion: ""
 publisherID: ""

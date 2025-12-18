@@ -3,12 +3,11 @@ name: nodejs
 alternativeName: ""
 category: ""
 displayName: nodejs
-createdAt: "0001-01-01T00:00:00Z"
+createdAt: "2023-12-04T16:55:44Z"
 description: Description not available
 logoPath: ""
 logoURL: ""
 digest: sha256:a3cb805128018203988a56d799ce110aa9eff6f2043fb84c8ef34eaa2077dfaa
-license: ""
 homeURL: ""
 appVersion: ""
 publisherID: ""

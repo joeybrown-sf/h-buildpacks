@@ -3,12 +3,11 @@ name: nodejs-function
 alternativeName: ""
 category: ""
 displayName: nodejs-function
-createdAt: "0001-01-01T00:00:00Z"
+createdAt: "2021-05-12T18:53:07Z"
 description: Description not available
 logoPath: ""
 logoURL: ""
 digest: sha256:f6f2746fae54dfe6d3befd6ee5809fb9bdb23c8367b17411b343cae592fe410c
-license: ""
 homeURL: ""
 appVersion: ""
 publisherID: ""

@@ -3,12 +3,11 @@ name: nodejs-pnpm-engine
 alternativeName: ""
 category: ""
 displayName: nodejs-pnpm-engine
-createdAt: "0001-01-01T00:00:00Z"
+createdAt: "2025-05-06T13:02:37Z"
 description: Description not available
 logoPath: ""
 logoURL: ""
 digest: sha256:8f03833ab67beb7a65cf13de82b805f718e5942d7ce5a0d9f492abc46d82a509
-license: ""
 homeURL: ""
 appVersion: ""
 publisherID: ""

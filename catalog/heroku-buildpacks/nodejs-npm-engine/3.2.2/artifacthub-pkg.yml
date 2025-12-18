@@ -3,12 +3,11 @@ name: nodejs-npm-engine
 alternativeName: ""
 category: ""
 displayName: nodejs-npm-engine
-createdAt: "0001-01-01T00:00:00Z"
+createdAt: "2024-05-22T19:10:17Z"
 description: Description not available
 logoPath: ""
 logoURL: ""
 digest: sha256:013a5466e863546dec3be8acd7a880cd6d2f00c8f54c1467625f8d824bafff50
-license: ""
 homeURL: ""
 appVersion: ""
 publisherID: ""

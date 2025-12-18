@@ -3,12 +3,11 @@ name: nodejs-yarn
 alternativeName: ""
 category: ""
 displayName: nodejs-yarn
-createdAt: "0001-01-01T00:00:00Z"
+createdAt: "2024-07-03T16:44:26Z"
 description: Description not available
 logoPath: ""
 logoURL: ""
 digest: sha256:3222bbd06c287823cd58da57eeba634cd15584d9db34297a98552e3820505af6
-license: ""
 homeURL: ""
 appVersion: ""
 publisherID: ""

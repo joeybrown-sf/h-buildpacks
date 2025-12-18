@@ -3,12 +3,11 @@ name: procfile
 alternativeName: ""
 category: ""
 displayName: procfile
-createdAt: "0001-01-01T00:00:00Z"
+createdAt: "2021-01-11T16:05:56Z"
 description: Description not available
 logoPath: ""
 logoURL: ""
 digest: sha256:74881b33e1e33eea38b419e667b0a99ac50e536727eeefd1b2eeb7ff3a937ffd
-license: ""
 homeURL: ""
 appVersion: ""
 publisherID: ""

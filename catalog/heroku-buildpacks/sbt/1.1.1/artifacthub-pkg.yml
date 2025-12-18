@@ -3,12 +3,11 @@ name: sbt
 alternativeName: ""
 category: ""
 displayName: sbt
-createdAt: "0001-01-01T00:00:00Z"
+createdAt: "2023-06-22T16:20:20Z"
 description: Description not available
 logoPath: ""
 logoURL: ""
 digest: sha256:f9820296c1819025f8709e7b7670182cbb5f2e6b9739567535b6fb412c52578b
-license: ""
 homeURL: ""
 appVersion: ""
 publisherID: ""

@@ -3,12 +3,11 @@ name: nodejs-npm
 alternativeName: ""
 category: ""
 displayName: nodejs-npm
-createdAt: "0001-01-01T00:00:00Z"
+createdAt: "2024-06-13T18:51:02Z"
 description: Description not available
 logoPath: ""
 logoURL: ""
 digest: sha256:dd472bcb295bb03166e85546b863cd1213b1f809c71ef3d0a909ec229d2c3cb4
-license: ""
 homeURL: ""
 appVersion: ""
 publisherID: ""

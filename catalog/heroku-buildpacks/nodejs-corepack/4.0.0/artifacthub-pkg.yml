@@ -3,12 +3,11 @@ name: nodejs-corepack
 alternativeName: ""
 category: ""
 displayName: nodejs-corepack
-createdAt: "0001-01-01T00:00:00Z"
+createdAt: "2025-07-10T17:06:22Z"
 description: Description not available
 logoPath: ""
 logoURL: ""
 digest: sha256:830a3e7170f92a5209a63618763fafd9ca61fa17404878989377196ecad816bd
-license: ""
 homeURL: ""
 appVersion: ""
 publisherID: ""

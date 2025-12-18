@@ -3,12 +3,11 @@ name: static-web-server
 alternativeName: ""
 category: ""
 displayName: static-web-server
-createdAt: "0001-01-01T00:00:00Z"
+createdAt: "2024-12-19T21:05:10Z"
 description: Description not available
 logoPath: ""
 logoURL: ""
 digest: sha256:b2cb7453a716c9737981fc02134edbaab79ba490cc038cf3ab8564801be8daab
-license: ""
 homeURL: ""
 appVersion: ""
 publisherID: ""

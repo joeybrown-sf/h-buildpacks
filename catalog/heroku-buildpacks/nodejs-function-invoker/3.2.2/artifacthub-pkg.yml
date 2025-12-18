@@ -3,12 +3,11 @@ name: nodejs-function-invoker
 alternativeName: ""
 category: ""
 displayName: nodejs-function-invoker
-createdAt: "0001-01-01T00:00:00Z"
+createdAt: "2024-05-22T19:10:11Z"
 description: Description not available
 logoPath: ""
 logoURL: ""
 digest: sha256:868cd12421fa81993d92700dc88733f8e17871bfb092039b7dd63aaccf4b22bc
-license: ""
 homeURL: ""
 appVersion: ""
 publisherID: ""

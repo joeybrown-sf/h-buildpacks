@@ -3,12 +3,11 @@ name: jvm
 alternativeName: ""
 category: ""
 displayName: jvm
-createdAt: "0001-01-01T00:00:00Z"
+createdAt: "2021-10-19T18:22:24Z"
 description: Description not available
 logoPath: ""
 logoURL: ""
 digest: sha256:3a8ee9ebf88e47c5e30bc5712fb2794380aed75552499f92bd6773ec446421ef
-license: ""
 homeURL: ""
 appVersion: ""
 publisherID: ""
