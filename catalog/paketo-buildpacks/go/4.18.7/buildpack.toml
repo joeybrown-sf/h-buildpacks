@@ -1,0 +1,100 @@
+api = "0.7"
+
+[buildpack]
+  description = "A buildpack for building Go applications"
+  homepage = "https://github.com/paketo-buildpacks/go"
+  id = "paketo-buildpacks/go"
+  keywords = ["go", "golang"]
+  name = "Paketo Buildpack for Go"
+  version = "4.18.7"
+
+  [[buildpack.licenses]]
+    type = "Apache-2.0"
+    uri = "https://github.com/paketo-buildpacks/go/blob/main/LICENSE"
+
+[metadata]
+  include-files = ["buildpack.toml"]
+
+[[order]]
+
+  [[order.group]]
+    id = "paketo-buildpacks/ca-certificates"
+    optional = true
+    version = "3.10.5"
+
+  [[order.group]]
+    id = "paketo-buildpacks/watchexec"
+    optional = true
+    version = "3.5.5"
+
+  [[order.group]]
+    id = "paketo-buildpacks/go-dist"
+    version = "2.9.8"
+
+  [[order.group]]
+    id = "paketo-buildpacks/git"
+    optional = true
+    version = "1.1.9"
+
+  [[order.group]]
+    id = "paketo-buildpacks/go-mod-vendor"
+    version = "1.1.8"
+
+  [[order.group]]
+    id = "paketo-buildpacks/go-build"
+    version = "2.4.6"
+
+  [[order.group]]
+    id = "paketo-buildpacks/procfile"
+    optional = true
+    version = "5.11.4"
+
+  [[order.group]]
+    id = "paketo-buildpacks/environment-variables"
+    optional = true
+    version = "4.9.4"
+
+  [[order.group]]
+    id = "paketo-buildpacks/image-labels"
+    optional = true
+    version = "4.10.3"
+
+[[order]]
+
+  [[order.group]]
+    id = "paketo-buildpacks/ca-certificates"
+    optional = true
+    version = "3.10.5"
+
+  [[order.group]]
+    id = "paketo-buildpacks/watchexec"
+    optional = true
+    version = "3.5.5"
+
+  [[order.group]]
+    id = "paketo-buildpacks/go-dist"
+    version = "2.9.8"
+
+  [[order.group]]
+    id = "paketo-buildpacks/git"
+    optional = true
+    version = "1.1.9"
+
+  [[order.group]]
+    id = "paketo-buildpacks/go-build"
+    version = "2.4.6"
+
+  [[order.group]]
+    id = "paketo-buildpacks/procfile"
+    optional = true
+    version = "5.11.4"
+
+  [[order.group]]
+    id = "paketo-buildpacks/environment-variables"
+    optional = true
+    version = "4.9.4"
+
+  [[order.group]]
+    id = "paketo-buildpacks/image-labels"
+    optional = true
+    version = "4.10.3"

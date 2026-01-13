@@ -4,16 +4,17 @@ alternativeName: ""
 category: ""
 displayName: go
 createdAt: "2025-02-14T05:24:27Z"
-description: Description not available
-logoPath: ""
+description: A buildpack for building Go applications
+logoPath: logo.png
 logoURL: ""
-digest: sha256:f9599094a91c06689b06cbdde7b0891ddc3629678b7de898c614ae274262bbe8
-homeURL: ""
+digest: 0a731022de5a96170d45200c40934ebfbd09c8a168ffee8b169f3c248517dff6
+license: Apache-2.0
+homeURL: https://github.com/paketo-buildpacks/go
 appVersion: ""
 publisherID: ""
 containersImages:
     - name: go
-      image: index.docker.io/paketobuildpacks/go:4.13.7
+      image: index.docker.io/paketobuildpacks/go@sha256:f9599094a91c06689b06cbdde7b0891ddc3629678b7de898c614ae274262bbe8
       whitelisted: false
       platforms: []
 operator: false

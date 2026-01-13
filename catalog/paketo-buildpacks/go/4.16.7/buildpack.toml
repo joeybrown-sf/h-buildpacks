@@ -1,0 +1,49 @@
+# Copyright 2018-2020 the original author or authors.
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#      https://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
+api = "0.7"
+
+[buildpack]
+  description = "A buildpack for translating a Procfile into Process Types"
+  homepage = "https://github.com/paketo-buildpacks/procfile"
+  id = "paketo-buildpacks/procfile"
+  keywords = ["procfile", "command"]
+  name = "Paketo Buildpack for Procfile"
+  sbom-formats = ["application/vnd.cyclonedx+json", "application/vnd.syft+json"]
+  version = "5.11.2"
+
+  [[buildpack.licenses]]
+    type = "Apache-2.0"
+    uri = "https://github.com/paketo-buildpacks/procfile/blob/main/LICENSE"
+
+
+[[targets]]
+os = "linux"
+arch = "amd64"
+
+[[targets]]
+os = "linux"
+arch = "arm64"
+
+[metadata]
+  include-files = ["LICENSE", "NOTICE", "README.md", "linux/amd64/bin/build", "linux/amd64/bin/detect", "linux/amd64/bin/main", "linux/arm64/bin/build", "linux/arm64/bin/detect", "linux/arm64/bin/main", "buildpack.toml"]
+  pre-package = "scripts/build.sh"
+
+[[metadata.configurations]]
+    name = "BP_DIRECT_PROCESS"
+    default = "false"
+    description = "start the processes directly or with a shell"
+
+[[stacks]]
+  id = "*"

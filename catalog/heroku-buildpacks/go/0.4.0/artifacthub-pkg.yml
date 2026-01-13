@@ -4,17 +4,18 @@ alternativeName: ""
 category: ""
 displayName: go
 createdAt: "2024-06-04T19:27:29Z"
-description: Description not available
-logoPath: ""
+description: Heroku's buildpack for Go applications.
+logoPath: logo.png
 logoURL: ""
-digest: sha256:1bbd4e89e4245b4c74d4edd264dbde73975d191d13fcd6d05b45d1bbd2de6e41
-homeURL: ""
+digest: 7c80a06e6494862cb77dae65a4529da7066d29872b6faaa78632a187c45e3e4e
+license: BSD-3-Clause
+homeURL: https://github.com/heroku/buildpacks-go
 appVersion: ""
 publisherID: ""
 containersImages:
     - name: buildpack-go
-      image: index.docker.io/heroku/buildpack-go:0.4.0
-      whitelisted: true
+      image: index.docker.io/heroku/buildpack-go@sha256:1bbd4e89e4245b4c74d4edd264dbde73975d191d13fcd6d05b45d1bbd2de6e41
+      whitelisted: false
       platforms: []
 operator: false
 deprecated: false

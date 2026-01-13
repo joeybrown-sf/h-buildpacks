@@ -1,0 +1,34 @@
+version: 2.1.7
+name: go
+alternativeName: ""
+category: ""
+displayName: go
+createdAt: "2026-01-08T16:17:38Z"
+description: Heroku's buildpack for Go applications.
+logoPath: logo.png
+logoURL: ""
+digest: 7b8ccbcf41990617e3011688132d76aee788f66a31c290862d3661a0e5614065
+license: BSD-3-Clause
+homeURL: https://github.com/heroku/buildpacks-go
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: buildpack-go
+      image: index.docker.io/heroku/buildpack-go@sha256:5dc7828a5ab5211486fcf4fa6760f78327c4d00133a8aa50f9454de84e5ddfbe
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

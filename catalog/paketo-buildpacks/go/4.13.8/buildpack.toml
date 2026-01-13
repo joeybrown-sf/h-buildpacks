@@ -1,0 +1,14 @@
+api = "0.7"
+
+[buildpack]
+  homepage = "https://github.com/paketo-buildpacks/git"
+  id = "paketo-buildpacks/git"
+  name = "Paketo Buildpack for Git"
+  version = "1.0.38"
+
+[metadata]
+  include-files = ["bin/run", "bin/build", "bin/detect", "buildpack.toml"]
+  pre-package = "./scripts/build.sh"
+
+[[stacks]]
+  id = "*"

@@ -1,0 +1,31 @@
+api = "0.10"
+
+[buildpack]
+id = "heroku/go"
+version = "0.4.3"
+name = "Heroku Go"
+homepage = "https://github.com/heroku/buildpacks-go"
+description = "Heroku's buildpack for Go applications."
+keywords = ["go", "golang", "heroku"]
+clear-env = true
+
+[[buildpack.licenses]]
+type = "BSD-3-Clause"
+
+# [[stacks]] is deprecated in Buildpack API 0.10, but is (unintentionally?)
+# required by `pack buildpack package`. The [[stacks]] table should be
+# removed when the issue (https://github.com/buildpacks/pack/issues/2047) is
+# resolved.
+[[stacks]]
+id = "*"
+
+[[targets]]
+os = "linux"
+arch = "arm64"
+
+[[targets]]
+os = "linux"
+arch = "amd64"
+
+[metadata.release]
+image = { repository = "docker.io/heroku/buildpack-go" }

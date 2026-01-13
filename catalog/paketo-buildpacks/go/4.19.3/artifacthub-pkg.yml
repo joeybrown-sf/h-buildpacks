@@ -1,0 +1,34 @@
+version: 4.19.3
+name: go
+alternativeName: ""
+category: ""
+displayName: go
+createdAt: "2026-01-09T05:19:09Z"
+description: A buildpack for building Go applications
+logoPath: logo.png
+logoURL: ""
+digest: 99c10f232e9b20e2c9b771aa2d5dfdd53e8d7a680a96092923149f8eeb0d73c5
+license: Apache-2.0
+homeURL: https://github.com/paketo-buildpacks/go
+appVersion: ""
+publisherID: ""
+containersImages:
+    - name: go
+      image: index.docker.io/paketobuildpacks/go@sha256:ea7b02377d0b093756e3f9fb4f052f7432bacb2a427f80e0c9a59a7a05a0539c
+      whitelisted: false
+      platforms: []
+operator: false
+deprecated: false
+keywords: []
+links: []
+readme: ""
+install: ""
+changes: []
+containsSecurityUpdates: false
+prerelease: false
+maintainers: []
+provider: null
+ignore: []
+recommendations: []
+screenshots: []
+annotations: {}

@@ -1,0 +1,29 @@
+api = "0.7"
+
+[buildpack]
+  description = "A buildpack for compiling Go applications and writing start commands"
+  homepage = "https://github.com/paketo-buildpacks/go-build"
+  id = "paketo-buildpacks/go-build"
+  keywords = ["go", "build", "compilation", "binary"]
+  name = "Paketo Buildpack for Go Build"
+  sbom-formats = ["application/vnd.cyclonedx+json", "application/spdx+json", "application/vnd.syft+json"]
+  version = "2.4.7"
+
+  [[buildpack.licenses]]
+    type = "Apache-2.0"
+    uri = "https://github.com/paketo-buildpacks/go-build/blob/main/LICENSE"
+
+[metadata]
+  include-files = ["buildpack.toml", "linux/amd64/bin/build", "linux/amd64/bin/detect", "linux/amd64/bin/run", "linux/arm64/bin/build", "linux/arm64/bin/detect", "linux/arm64/bin/run"]
+  pre-package = "./scripts/build.sh --target linux/amd64 --target linux/arm64"
+
+[[stacks]]
+  id = "*"
+
+[[targets]]
+  arch = "amd64"
+  os = "linux"
+
+[[targets]]
+  arch = "arm64"
+  os = "linux"

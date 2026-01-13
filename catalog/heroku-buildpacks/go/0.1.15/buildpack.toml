@@ -1,0 +1,22 @@
+api = "0.9"
+
+[buildpack]
+id = "heroku/go"
+version = "0.1.15"
+name = "Heroku Go"
+homepage = "https://github.com/heroku/buildpacks-go"
+description = "Heroku's buildpack for Go applications."
+keywords = ["go", "golang", "heroku"]
+clear-env = true
+
+[[buildpack.licenses]]
+type = "BSD-3-Clause"
+
+[[stacks]]
+id = "heroku-20"
+
+[[stacks]]
+id = "heroku-22"
+
+[metadata.release]
+image = { repository = "docker.io/heroku/buildpack-go" }
