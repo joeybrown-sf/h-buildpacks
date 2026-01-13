@@ -5,7 +5,7 @@ category: ""
 displayName: go
 createdAt: "2026-01-08T16:17:38Z"
 description: Heroku's buildpack for Go applications.
-logoPath: logo.png
+logoPath: ../../logo.png
 logoURL: ""
 digest: 7b8ccbcf41990617e3011688132d76aee788f66a31c290862d3661a0e5614065
 license: BSD-3-Clause
